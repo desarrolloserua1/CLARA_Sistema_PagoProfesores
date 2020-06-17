@@ -1,0 +1,116 @@
+C:\Anahuac\Desarrollos\VS\ConnectUrl\ConnectUrlToken\bin\Release\ConnectUrlToken.dll
+C:\Anahuac\Desarrollos\VS\ConnectUrl\ConnectUrlToken\bin\Release\ConnectUrlToken.pdb
+C:\Anahuac\Desarrollos\VS\ConnectUrl\ConnectUrlToken\bin\Release\Newtonsoft.Json.dll
+C:\Anahuac\Desarrollos\VS\ConnectUrl\ConnectUrlToken\bin\Release\System.Net.Http.Formatting.dll
+C:\Anahuac\Desarrollos\VS\ConnectUrl\ConnectUrlToken\bin\Release\Newtonsoft.Json.xml
+C:\Anahuac\Desarrollos\VS\ConnectUrl\ConnectUrlToken\bin\Release\System.Net.Http.Formatting.xml
+C:\Anahuac\Desarrollos\VS\ConnectUrl\ConnectUrlToken\obj\Release\ConnectUrlToken.dll
+C:\Anahuac\Desarrollos\VS\ConnectUrl\ConnectUrlToken\obj\Release\ConnectUrlToken.pdb
+C:\Users\Charly\Documents\Proyectos C#\PagoProfesores\ConnectUrlToken\bin\Release\ConnectUrlToken.dll
+C:\Users\Charly\Documents\Proyectos C#\PagoProfesores\ConnectUrlToken\bin\Release\ConnectUrlToken.pdb
+C:\Users\Charly\Documents\Proyectos C#\PagoProfesores\ConnectUrlToken\bin\Release\System.Net.Http.Formatting.dll
+C:\Users\Charly\Documents\Proyectos C#\PagoProfesores\ConnectUrlToken\bin\Release\Newtonsoft.Json.xml
+C:\Users\Charly\Documents\Proyectos C#\PagoProfesores\ConnectUrlToken\bin\Release\System.Net.Http.Formatting.xml
+C:\Users\Charly\Documents\Proyectos C#\PagoProfesores\ConnectUrlToken\obj\Release\ConnectUrlToken.csprojResolveAssemblyReference.cache
+C:\Users\Charly\Documents\Proyectos C#\PagoProfesores\ConnectUrlToken\obj\Release\ConnectUrlToken.dll
+C:\Users\Charly\Documents\Proyectos C#\PagoProfesores\ConnectUrlToken\obj\Release\ConnectUrlToken.pdb
+C:\Users\ATMX34Z41\Documents\Visual Studio 2015\Projects\PagoProfesores\ConnectUrlToken\bin\Release\ConnectUrlToken.dll
+C:\Users\ATMX34Z41\Documents\Visual Studio 2015\Projects\PagoProfesores\ConnectUrlToken\bin\Release\ConnectUrlToken.pdb
+C:\Users\ATMX34Z41\Documents\Visual Studio 2015\Projects\PagoProfesores\ConnectUrlToken\bin\Release\System.Net.Http.Formatting.dll
+C:\Users\ATMX34Z41\Documents\Visual Studio 2015\Projects\PagoProfesores\ConnectUrlToken\bin\Release\System.Net.Http.Formatting.xml
+C:\Users\ATMX34Z41\Documents\Visual Studio 2015\Projects\PagoProfesores\ConnectUrlToken\bin\Release\es\System.Net.Http.Formatting.resources.dll
+C:\Users\ATMX34Z41\Documents\Visual Studio 2015\Projects\PagoProfesores\ConnectUrlToken\obj\Release\ConnectUrlToken.csprojResolveAssemblyReference.cache
+C:\Users\ATMX34Z41\Documents\Visual Studio 2015\Projects\PagoProfesores\ConnectUrlToken\obj\Release\ConnectUrlToken.dll
+C:\Users\ATMX34Z41\Documents\Visual Studio 2015\Projects\PagoProfesores\ConnectUrlToken\obj\Release\ConnectUrlToken.pdb
+C:\Users\admin\Documents\Visual Studio 2017\Projects\PagoProfesores\ConnectUrlToken\bin\Release\ConnectUrlToken.dll
+C:\Users\admin\Documents\Visual Studio 2017\Projects\PagoProfesores\ConnectUrlToken\bin\Release\ConnectUrlToken.pdb
+C:\Users\admin\Documents\Visual Studio 2017\Projects\PagoProfesores\ConnectUrlToken\bin\Release\System.Net.Http.Formatting.xml
+C:\Users\admin\Documents\Visual Studio 2017\Projects\PagoProfesores\ConnectUrlToken\bin\Release\es\System.Net.Http.Formatting.resources.dll
+C:\Users\admin\Documents\Visual Studio 2017\Projects\PagoProfesores\ConnectUrlToken\obj\Release\ConnectUrlToken.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\Visual Studio 2017\Projects\PagoProfesores\ConnectUrlToken\obj\Release\ConnectUrlToken.dll
+C:\Users\admin\Documents\Visual Studio 2017\Projects\PagoProfesores\ConnectUrlToken\obj\Release\ConnectUrlToken.pdb
+C:\Users\SERUA\Desktop\PagoProfesores_Alex\ConnectUrlToken\bin\Release\ConnectUrlToken.dll
+C:\Users\SERUA\Desktop\PagoProfesores_Alex\ConnectUrlToken\bin\Release\ConnectUrlToken.pdb
+C:\Users\SERUA\Desktop\PagoProfesores_Alex\ConnectUrlToken\bin\Release\System.Net.Http.Formatting.xml
+C:\Users\SERUA\Desktop\PagoProfesores_Alex\ConnectUrlToken\bin\Release\es\System.Net.Http.Formatting.resources.dll
+C:\Users\SERUA\Desktop\PagoProfesores_Alex\ConnectUrlToken\obj\Release\ConnectUrlToken.csprojResolveAssemblyReference.cache
+C:\Users\SERUA\Desktop\PagoProfesores_Alex\ConnectUrlToken\obj\Release\ConnectUrlToken.dll
+C:\Users\SERUA\Desktop\PagoProfesores_Alex\ConnectUrlToken\obj\Release\ConnectUrlToken.pdb
+C:\Users\abaca\Documents\Visual Studio 2017\Projects\PagoProfesores\ConnectUrlToken\bin\Release\ConnectUrlToken.dll
+C:\Users\abaca\Documents\Visual Studio 2017\Projects\PagoProfesores\ConnectUrlToken\bin\Release\ConnectUrlToken.pdb
+C:\Users\abaca\Documents\Visual Studio 2017\Projects\PagoProfesores\ConnectUrlToken\bin\Release\Newtonsoft.Json.dll
+C:\Users\abaca\Documents\Visual Studio 2017\Projects\PagoProfesores\ConnectUrlToken\bin\Release\System.Net.Http.Formatting.xml
+C:\Users\abaca\Documents\Visual Studio 2017\Projects\PagoProfesores\ConnectUrlToken\obj\Release\ConnectUrlToken.csprojResolveAssemblyReference.cache
+C:\Users\abaca\Documents\Visual Studio 2017\Projects\PagoProfesores\ConnectUrlToken\obj\Release\ConnectUrlToken.csproj.CoreCompileInputs.cache
+C:\Users\abaca\Documents\Visual Studio 2017\Projects\PagoProfesores\ConnectUrlToken\obj\Release\ConnectUrlToken.dll
+C:\Users\abaca\Documents\Visual Studio 2017\Projects\PagoProfesores\ConnectUrlToken\obj\Release\ConnectUrlToken.pdb
+C:\clara\app\CLARA_PagoProfesores\ConnectUrlToken\bin\Release\ConnectUrlToken.dll
+C:\clara\app\CLARA_PagoProfesores\ConnectUrlToken\bin\Release\ConnectUrlToken.pdb
+C:\clara\app\CLARA_PagoProfesores\ConnectUrlToken\bin\Release\System.Net.Http.Formatting.xml
+C:\clara\app\CLARA_PagoProfesores\ConnectUrlToken\bin\Release\es\System.Net.Http.Formatting.resources.dll
+C:\clara\app\CLARA_PagoProfesores\ConnectUrlToken\obj\Release\ConnectUrlToken.csprojResolveAssemblyReference.cache
+C:\clara\app\CLARA_PagoProfesores\ConnectUrlToken\obj\Release\ConnectUrlToken.dll
+C:\clara\app\CLARA_PagoProfesores\ConnectUrlToken\obj\Release\ConnectUrlToken.pdb
+C:\clara\app\ver_pago\pago_ver_prod_iaas\CLARA_PagoProfesores\ConnectUrlToken\bin\Release\ConnectUrlToken.dll
+C:\clara\app\ver_pago\pago_ver_prod_iaas\CLARA_PagoProfesores\ConnectUrlToken\bin\Release\ConnectUrlToken.pdb
+C:\clara\app\ver_pago\pago_ver_prod_iaas\CLARA_PagoProfesores\ConnectUrlToken\bin\Release\Newtonsoft.Json.dll
+C:\clara\app\ver_pago\pago_ver_prod_iaas\CLARA_PagoProfesores\ConnectUrlToken\bin\Release\System.Net.Http.Formatting.xml
+C:\clara\app\ver_pago\pago_ver_prod_iaas\CLARA_PagoProfesores\ConnectUrlToken\bin\Release\es\System.Net.Http.Formatting.resources.dll
+C:\clara\app\ver_pago\pago_ver_prod_iaas\CLARA_PagoProfesores\ConnectUrlToken\obj\Release\ConnectUrlToken.csprojResolveAssemblyReference.cache
+C:\clara\app\ver_pago\pago_ver_prod_iaas\CLARA_PagoProfesores\ConnectUrlToken\obj\Release\ConnectUrlToken.dll
+C:\clara\app\ver_pago\pago_ver_prod_iaas\CLARA_PagoProfesores\ConnectUrlToken\obj\Release\ConnectUrlToken.pdb
+C:\Anahuac\Desarrollos\VS\CLARA_PagoProfesores\ConnectUrlToken\bin\Release\ConnectUrlToken.dll
+C:\Anahuac\Desarrollos\VS\CLARA_PagoProfesores\ConnectUrlToken\bin\Release\ConnectUrlToken.pdb
+C:\Anahuac\Desarrollos\VS\CLARA_PagoProfesores\ConnectUrlToken\bin\Release\System.Net.Http.Formatting.dll
+C:\Anahuac\Desarrollos\VS\CLARA_PagoProfesores\ConnectUrlToken\obj\Release\ConnectUrlToken.dll
+C:\Anahuac\Desarrollos\VS\CLARA_PagoProfesores\ConnectUrlToken\obj\Release\ConnectUrlToken.pdb
+C:\Anahuac\Desarrollos\VS\CLARA_PagoProfesores\ConnectUrlToken\bin\Release\Newtonsoft.Json.dll
+C:\Anahuac\Desarrollos\VS\CLARA_PagoProfesores\ConnectUrlToken\obj\Release\ConnectUrlToken.csprojAssemblyReference.cache
+C:\Anahuac\Desarrollos\VS\CLARA_PagoProfesores\ConnectUrlToken\obj\Release\ConnectUrlToken.csproj.CoreCompileInputs.cache
+C:\Anahuac\Desarrollos\VS\CLARA_PagoProfesores\ConnectUrlToken\obj\Release\ConnectUrlToken.csproj.CopyComplete
+C:\Users\SERUA\Desktop\vmeses_pagopf_actual\CLARA_PagoProfesores\ConnectUrlToken\bin\Release\ConnectUrlToken.dll
+C:\Users\SERUA\Desktop\vmeses_pagopf_actual\CLARA_PagoProfesores\ConnectUrlToken\bin\Release\ConnectUrlToken.pdb
+C:\Users\SERUA\Desktop\vmeses_pagopf_actual\CLARA_PagoProfesores\ConnectUrlToken\bin\Release\Newtonsoft.Json.dll
+C:\Users\SERUA\Desktop\vmeses_pagopf_actual\CLARA_PagoProfesores\ConnectUrlToken\bin\Release\System.Net.Http.Formatting.xml
+C:\Users\SERUA\Desktop\vmeses_pagopf_actual\CLARA_PagoProfesores\ConnectUrlToken\bin\Release\es\System.Net.Http.Formatting.resources.dll
+C:\Users\SERUA\Desktop\vmeses_pagopf_actual\CLARA_PagoProfesores\ConnectUrlToken\obj\Release\ConnectUrlToken.csprojResolveAssemblyReference.cache
+C:\Users\SERUA\Desktop\vmeses_pagopf_actual\CLARA_PagoProfesores\ConnectUrlToken\obj\Release\ConnectUrlToken.dll
+C:\Users\SERUA\Desktop\vmeses_pagopf_actual\CLARA_PagoProfesores\ConnectUrlToken\obj\Release\ConnectUrlToken.pdb
+C:\Users\abaca\Documents\Visual Studio 2017\Projects\CLARA_PagoProfesores\ConnectUrlToken\bin\Release\ConnectUrlToken.dll
+C:\Users\abaca\Documents\Visual Studio 2017\Projects\CLARA_PagoProfesores\ConnectUrlToken\bin\Release\ConnectUrlToken.pdb
+C:\Users\abaca\Documents\Visual Studio 2017\Projects\CLARA_PagoProfesores\ConnectUrlToken\bin\Release\Newtonsoft.Json.dll
+C:\Users\abaca\Documents\Visual Studio 2017\Projects\CLARA_PagoProfesores\ConnectUrlToken\bin\Release\System.Net.Http.Formatting.xml
+C:\Users\abaca\Documents\Visual Studio 2017\Projects\CLARA_PagoProfesores\ConnectUrlToken\obj\Release\ConnectUrlToken.csprojResolveAssemblyReference.cache
+C:\Users\abaca\Documents\Visual Studio 2017\Projects\CLARA_PagoProfesores\ConnectUrlToken\obj\Release\ConnectUrlToken.csproj.CoreCompileInputs.cache
+C:\Users\abaca\Documents\Visual Studio 2017\Projects\CLARA_PagoProfesores\ConnectUrlToken\obj\Release\ConnectUrlToken.dll
+C:\Users\abaca\Documents\Visual Studio 2017\Projects\CLARA_PagoProfesores\ConnectUrlToken\obj\Release\ConnectUrlToken.pdb
+C:\Users\abaca\Documents\Visual Studio 2017\Projects\CLARA_PagoProfesores\ConnectUrlToken\bin\Release\System.Net.Http.Formatting.dll
+C:\Users\Serua\Documents\Proyectos\Clara\PagoProfesores\Original-160519-PDF\PagoProfesores\ConnectUrlToken\bin\Release\ConnectUrlToken.dll
+C:\Users\Serua\Documents\Proyectos\Clara\PagoProfesores\Original-160519-PDF\PagoProfesores\ConnectUrlToken\bin\Release\ConnectUrlToken.pdb
+C:\Users\Serua\Documents\Proyectos\Clara\PagoProfesores\Original-160519-PDF\PagoProfesores\ConnectUrlToken\bin\Release\Newtonsoft.Json.dll
+C:\Users\Serua\Documents\Proyectos\Clara\PagoProfesores\Original-160519-PDF\PagoProfesores\ConnectUrlToken\bin\Release\System.Net.Http.Formatting.dll
+C:\Users\Serua\Documents\Proyectos\Clara\PagoProfesores\Original-160519-PDF\PagoProfesores\ConnectUrlToken\bin\Release\System.Net.Http.Formatting.xml
+C:\Users\Serua\Documents\Proyectos\Clara\PagoProfesores\Original-160519-PDF\PagoProfesores\ConnectUrlToken\obj\Release\ConnectUrlToken.csprojAssemblyReference.cache
+C:\Users\Serua\Documents\Proyectos\Clara\PagoProfesores\Original-160519-PDF\PagoProfesores\ConnectUrlToken\obj\Release\ConnectUrlToken.csproj.CoreCompileInputs.cache
+C:\Users\Serua\Documents\Proyectos\Clara\PagoProfesores\Original-160519-PDF\PagoProfesores\ConnectUrlToken\obj\Release\ConnectUrlToken.csproj.CopyComplete
+C:\Users\Serua\Documents\Proyectos\Clara\PagoProfesores\Original-160519-PDF\PagoProfesores\ConnectUrlToken\obj\Release\ConnectUrlToken.dll
+C:\Users\Serua\Documents\Proyectos\Clara\PagoProfesores\Original-160519-PDF\PagoProfesores\ConnectUrlToken\obj\Release\ConnectUrlToken.pdb
+C:\Users\SERUA\Desktop\storage_pago\Original-160519-PDF\PagoProfesores\ConnectUrlToken\bin\Release\ConnectUrlToken.dll
+C:\Users\SERUA\Desktop\storage_pago\Original-160519-PDF\PagoProfesores\ConnectUrlToken\bin\Release\ConnectUrlToken.pdb
+C:\Users\SERUA\Desktop\storage_pago\Original-160519-PDF\PagoProfesores\ConnectUrlToken\bin\Release\Newtonsoft.Json.dll
+C:\Users\SERUA\Desktop\storage_pago\Original-160519-PDF\PagoProfesores\ConnectUrlToken\bin\Release\System.Net.Http.Formatting.dll
+C:\Users\SERUA\Desktop\storage_pago\Original-160519-PDF\PagoProfesores\ConnectUrlToken\bin\Release\System.Net.Http.Formatting.xml
+C:\Users\SERUA\Desktop\storage_pago\Original-160519-PDF\PagoProfesores\ConnectUrlToken\obj\Release\ConnectUrlToken.csprojResolveAssemblyReference.cache
+C:\Users\SERUA\Desktop\storage_pago\Original-160519-PDF\PagoProfesores\ConnectUrlToken\obj\Release\ConnectUrlToken.dll
+C:\Users\SERUA\Desktop\storage_pago\Original-160519-PDF\PagoProfesores\ConnectUrlToken\obj\Release\ConnectUrlToken.pdb
+C:\Users\abaca\Documents\Visual Studio 2017\Projects\PagoProfesores\ConnectUrlToken\bin\Release\System.Net.Http.Formatting.dll
+C:\Users\David Diaz\OneDrive - Red de Universidades Anáhuac\Documentos\PagoProfesores\PagoProfesores\ConnectUrlToken\bin\Release\ConnectUrlToken.dll
+C:\Users\David Diaz\OneDrive - Red de Universidades Anáhuac\Documentos\PagoProfesores\PagoProfesores\ConnectUrlToken\bin\Release\ConnectUrlToken.pdb
+C:\Users\David Diaz\OneDrive - Red de Universidades Anáhuac\Documentos\PagoProfesores\PagoProfesores\ConnectUrlToken\bin\Release\Newtonsoft.Json.dll
+C:\Users\David Diaz\OneDrive - Red de Universidades Anáhuac\Documentos\PagoProfesores\PagoProfesores\ConnectUrlToken\bin\Release\System.Net.Http.Formatting.dll
+C:\Users\David Diaz\OneDrive - Red de Universidades Anáhuac\Documentos\PagoProfesores\PagoProfesores\ConnectUrlToken\bin\Release\System.Net.Http.Formatting.xml
+C:\Users\David Diaz\OneDrive - Red de Universidades Anáhuac\Documentos\PagoProfesores\PagoProfesores\ConnectUrlToken\obj\Release\ConnectUrlToken.csprojAssemblyReference.cache
+C:\Users\David Diaz\OneDrive - Red de Universidades Anáhuac\Documentos\PagoProfesores\PagoProfesores\ConnectUrlToken\obj\Release\ConnectUrlToken.csproj.CoreCompileInputs.cache
+C:\Users\David Diaz\OneDrive - Red de Universidades Anáhuac\Documentos\PagoProfesores\PagoProfesores\ConnectUrlToken\obj\Release\ConnectUrlToken.csproj.CopyComplete
+C:\Users\David Diaz\OneDrive - Red de Universidades Anáhuac\Documentos\PagoProfesores\PagoProfesores\ConnectUrlToken\obj\Release\ConnectUrlToken.dll
+C:\Users\David Diaz\OneDrive - Red de Universidades Anáhuac\Documentos\PagoProfesores\PagoProfesores\ConnectUrlToken\obj\Release\ConnectUrlToken.pdb

@@ -1,0 +1,93 @@
+C:\Anahuac\Desarrollos\VS\PagoProfesores\ConnectDB\bin\Debug\ConnectDB.dll
+C:\Anahuac\Desarrollos\VS\PagoProfesores\ConnectDB\bin\Debug\ConnectDB.pdb
+C:\Anahuac\Desarrollos\VS\PagoProfesores\ConnectDB\obj\Debug\ConnectDB.dll
+C:\Anahuac\Desarrollos\VS\PagoProfesores\ConnectDB\obj\Debug\ConnectDB.pdb
+C:\Users\SERUA\Documents\PROYECTOS\PagoProfesores - Rogelio\PagoProfesores\ConnectDB\bin\Debug\ConnectDB.dll
+C:\Users\SERUA\Documents\PROYECTOS\PagoProfesores - Rogelio\PagoProfesores\ConnectDB\bin\Debug\ConnectDB.pdb
+C:\Users\SERUA\Documents\PROYECTOS\PagoProfesores - Rogelio\PagoProfesores\ConnectDB\obj\Debug\ConnectDB.dll
+C:\Users\SERUA\Documents\PROYECTOS\PagoProfesores - Rogelio\PagoProfesores\ConnectDB\obj\Debug\ConnectDB.pdb
+C:\Users\SERUA\Documents\PROYECTOS\PagoProfesores\ConnectDB\bin\Debug\ConnectDB.dll
+C:\Users\SERUA\Documents\PROYECTOS\PagoProfesores\ConnectDB\bin\Debug\ConnectDB.pdb
+C:\Users\SERUA\Documents\PROYECTOS\PagoProfesores\ConnectDB\obj\Debug\ConnectDB.csprojResolveAssemblyReference.cache
+C:\Users\SERUA\Documents\PROYECTOS\PagoProfesores\ConnectDB\obj\Debug\ConnectDB.dll
+C:\Users\SERUA\Documents\PROYECTOS\PagoProfesores\ConnectDB\obj\Debug\ConnectDB.pdb
+C:\Anahuac\VS\PagoProfesores\ConnectDB\bin\Debug\ConnectDB.dll
+C:\Anahuac\VS\PagoProfesores\ConnectDB\bin\Debug\ConnectDB.pdb
+C:\Anahuac\VS\PagoProfesores\ConnectDB\obj\Debug\ConnectDB.csprojResolveAssemblyReference.cache
+C:\Anahuac\VS\PagoProfesores\ConnectDB\obj\Debug\ConnectDB.dll
+C:\Anahuac\VS\PagoProfesores\ConnectDB\obj\Debug\ConnectDB.pdb
+C:\Anahuac\Desarrollos\VS\Lib_PagoProfesores\ConnectDB\bin\Debug\ConnectDB.dll
+C:\Anahuac\Desarrollos\VS\Lib_PagoProfesores\ConnectDB\bin\Debug\ConnectDB.pdb
+C:\Anahuac\Desarrollos\VS\Lib_PagoProfesores\ConnectDB\obj\Debug\ConnectDB.csprojResolveAssemblyReference.cache
+C:\Anahuac\Desarrollos\VS\Lib_PagoProfesores\ConnectDB\obj\Debug\ConnectDB.dll
+C:\Anahuac\Desarrollos\VS\Lib_PagoProfesores\ConnectDB\obj\Debug\ConnectDB.pdb
+C:\Users\Charly\Documents\Proyectos C#\PagoProfesores\ConnectDB\bin\Debug\ConnectDB.dll
+C:\Users\Charly\Documents\Proyectos C#\PagoProfesores\ConnectDB\bin\Debug\ConnectDB.pdb
+C:\Users\Charly\Documents\Proyectos C#\PagoProfesores\ConnectDB\obj\Debug\ConnectDB.dll
+C:\Users\Charly\Documents\Proyectos C#\PagoProfesores\ConnectDB\obj\Debug\ConnectDB.pdb
+C:\Users\SERUA\Desktop\pago_profesores\ConnectDB\bin\Debug\ConnectDB.dll
+C:\Users\SERUA\Desktop\pago_profesores\ConnectDB\bin\Debug\ConnectDB.pdb
+C:\Users\SERUA\Desktop\pago_profesores\ConnectDB\obj\Debug\ConnectDB.csprojResolveAssemblyReference.cache
+C:\Users\SERUA\Desktop\pago_profesores\ConnectDB\obj\Debug\ConnectDB.dll
+C:\Users\SERUA\Desktop\pago_profesores\ConnectDB\obj\Debug\ConnectDB.pdb
+C:\Users\SERUA\Desktop\PagoProfesores\ConnectDB\bin\Debug\ConnectDB.dll
+C:\Users\SERUA\Desktop\PagoProfesores\ConnectDB\bin\Debug\ConnectDB.pdb
+C:\Users\SERUA\Desktop\PagoProfesores\ConnectDB\obj\Debug\ConnectDB.dll
+C:\Users\SERUA\Desktop\PagoProfesores\ConnectDB\obj\Debug\ConnectDB.pdb
+C:\Users\admin\Documents\Visual Studio 2017\Projects\PagoProfesores\ConnectDB\bin\Debug\ConnectDB.dll
+C:\Users\admin\Documents\Visual Studio 2017\Projects\PagoProfesores\ConnectDB\bin\Debug\ConnectDB.pdb
+C:\Users\admin\Documents\Visual Studio 2017\Projects\PagoProfesores\ConnectDB\obj\Debug\ConnectDB.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\Visual Studio 2017\Projects\PagoProfesores\ConnectDB\obj\Debug\ConnectDB.dll
+C:\Users\admin\Documents\Visual Studio 2017\Projects\PagoProfesores\ConnectDB\obj\Debug\ConnectDB.pdb
+C:\clara\app\CLARA_PagoProfesores\ConnectDB\bin\Debug\ConnectDB.dll
+C:\clara\app\CLARA_PagoProfesores\ConnectDB\bin\Debug\ConnectDB.pdb
+C:\clara\app\CLARA_PagoProfesores\ConnectDB\obj\Debug\ConnectDB.dll
+C:\clara\app\CLARA_PagoProfesores\ConnectDB\obj\Debug\ConnectDB.pdb
+C:\clara\app\ver_pago\pago_ver_prod_iaas\CLARA_PagoProfesores\ConnectDB\bin\Debug\ConnectDB.dll
+C:\clara\app\ver_pago\pago_ver_prod_iaas\CLARA_PagoProfesores\ConnectDB\bin\Debug\ConnectDB.pdb
+C:\clara\app\ver_pago\pago_ver_prod_iaas\CLARA_PagoProfesores\ConnectDB\obj\Debug\ConnectDB.dll
+C:\clara\app\ver_pago\pago_ver_prod_iaas\CLARA_PagoProfesores\ConnectDB\obj\Debug\ConnectDB.pdb
+C:\clara\app\ver_pago\pago_ver_prod_iaas\CLARA_PagoProfesores\ConnectDB\obj\Debug\ConnectDB.csprojResolveAssemblyReference.cache
+C:\Anahuac\Desarrollos\VS\CLARA_PagoProfesores\ConnectDB\bin\Debug\ConnectDB.dll
+C:\Anahuac\Desarrollos\VS\CLARA_PagoProfesores\ConnectDB\bin\Debug\ConnectDB.pdb
+C:\Anahuac\Desarrollos\VS\CLARA_PagoProfesores\ConnectDB\obj\Debug\ConnectDB.dll
+C:\Anahuac\Desarrollos\VS\CLARA_PagoProfesores\ConnectDB\obj\Debug\ConnectDB.pdb
+C:\Anahuac\Desarrollos\VS\CLARA_PagoProfesores\ConnectDB\obj\Debug\ConnectDB.csprojAssemblyReference.cache
+C:\Anahuac\Desarrollos\VS\CLARA_PagoProfesores\ConnectDB\obj\Debug\ConnectDB.csproj.CoreCompileInputs.cache
+C:\Users\SERUA\Desktop\vmeses_pagopf_actual\CLARA_PagoProfesores\ConnectDB\bin\Debug\ConnectDB.dll
+C:\Users\SERUA\Desktop\vmeses_pagopf_actual\CLARA_PagoProfesores\ConnectDB\bin\Debug\ConnectDB.pdb
+C:\Users\SERUA\Desktop\vmeses_pagopf_actual\CLARA_PagoProfesores\ConnectDB\obj\Debug\ConnectDB.csprojResolveAssemblyReference.cache
+C:\Users\SERUA\Desktop\vmeses_pagopf_actual\CLARA_PagoProfesores\ConnectDB\obj\Debug\ConnectDB.dll
+C:\Users\SERUA\Desktop\vmeses_pagopf_actual\CLARA_PagoProfesores\ConnectDB\obj\Debug\ConnectDB.pdb
+C:\Users\abaca\Documents\Visual Studio 2017\Projects\CLARA_PagoProfesores\ConnectDB\bin\Debug\ConnectDB.dll
+C:\Users\abaca\Documents\Visual Studio 2017\Projects\CLARA_PagoProfesores\ConnectDB\bin\Debug\ConnectDB.pdb
+C:\Users\abaca\Documents\Visual Studio 2017\Projects\CLARA_PagoProfesores\ConnectDB\obj\Debug\ConnectDB.csproj.CoreCompileInputs.cache
+C:\Users\abaca\Documents\Visual Studio 2017\Projects\CLARA_PagoProfesores\ConnectDB\obj\Debug\ConnectDB.dll
+C:\Users\abaca\Documents\Visual Studio 2017\Projects\CLARA_PagoProfesores\ConnectDB\obj\Debug\ConnectDB.pdb
+C:\Users\Serua\Documents\Proyectos\Clara\PagoProfesores\Original-160519-PDF\PagoProfesores\ConnectDB\bin\Debug\ConnectDB.dll
+C:\Users\Serua\Documents\Proyectos\Clara\PagoProfesores\Original-160519-PDF\PagoProfesores\ConnectDB\bin\Debug\ConnectDB.pdb
+C:\Users\Serua\Documents\Proyectos\Clara\PagoProfesores\Original-160519-PDF\PagoProfesores\ConnectDB\obj\Debug\ConnectDB.csprojAssemblyReference.cache
+C:\Users\Serua\Documents\Proyectos\Clara\PagoProfesores\Original-160519-PDF\PagoProfesores\ConnectDB\obj\Debug\ConnectDB.csproj.CoreCompileInputs.cache
+C:\Users\Serua\Documents\Proyectos\Clara\PagoProfesores\Original-160519-PDF\PagoProfesores\ConnectDB\obj\Debug\ConnectDB.dll
+C:\Users\Serua\Documents\Proyectos\Clara\PagoProfesores\Original-160519-PDF\PagoProfesores\ConnectDB\obj\Debug\ConnectDB.pdb
+C:\Users\SERUA\Desktop\storage_pago\Original-160519-PDF\PagoProfesores\ConnectDB\bin\Debug\ConnectDB.dll
+C:\Users\SERUA\Desktop\storage_pago\Original-160519-PDF\PagoProfesores\ConnectDB\bin\Debug\ConnectDB.pdb
+C:\Users\SERUA\Desktop\storage_pago\Original-160519-PDF\PagoProfesores\ConnectDB\obj\Debug\ConnectDB.dll
+C:\Users\SERUA\Desktop\storage_pago\Original-160519-PDF\PagoProfesores\ConnectDB\obj\Debug\ConnectDB.pdb
+C:\Users\SERUA\Desktop\storage_pago\Original-160519-PDF\PagoProfesores\ConnectDB\obj\Debug\ConnectDB.csprojResolveAssemblyReference.cache
+C:\Users\SERUA\Desktop\storage_pago\Original-160519-PDF_prod\PagoProfesores\ConnectDB\bin\Debug\ConnectDB.dll
+C:\Users\SERUA\Desktop\storage_pago\Original-160519-PDF_prod\PagoProfesores\ConnectDB\bin\Debug\ConnectDB.pdb
+C:\Users\SERUA\Desktop\storage_pago\Original-160519-PDF_prod\PagoProfesores\ConnectDB\obj\Debug\ConnectDB.csprojResolveAssemblyReference.cache
+C:\Users\SERUA\Desktop\storage_pago\Original-160519-PDF_prod\PagoProfesores\ConnectDB\obj\Debug\ConnectDB.dll
+C:\Users\SERUA\Desktop\storage_pago\Original-160519-PDF_prod\PagoProfesores\ConnectDB\obj\Debug\ConnectDB.pdb
+C:\Users\abaca\Documents\Visual Studio 2017\Projects\PagoProfesores\ConnectDB\bin\Debug\ConnectDB.dll
+C:\Users\abaca\Documents\Visual Studio 2017\Projects\PagoProfesores\ConnectDB\bin\Debug\ConnectDB.pdb
+C:\Users\abaca\Documents\Visual Studio 2017\Projects\PagoProfesores\ConnectDB\obj\Debug\ConnectDB.csproj.CoreCompileInputs.cache
+C:\Users\abaca\Documents\Visual Studio 2017\Projects\PagoProfesores\ConnectDB\obj\Debug\ConnectDB.dll
+C:\Users\abaca\Documents\Visual Studio 2017\Projects\PagoProfesores\ConnectDB\obj\Debug\ConnectDB.pdb
+C:\Users\David Diaz\OneDrive - Red de Universidades Anáhuac\Documentos\PagoProfesores\PagoProfesores\ConnectDB\bin\Debug\ConnectDB.dll
+C:\Users\David Diaz\OneDrive - Red de Universidades Anáhuac\Documentos\PagoProfesores\PagoProfesores\ConnectDB\bin\Debug\ConnectDB.pdb
+C:\Users\David Diaz\OneDrive - Red de Universidades Anáhuac\Documentos\PagoProfesores\PagoProfesores\ConnectDB\obj\Debug\ConnectDB.csprojAssemblyReference.cache
+C:\Users\David Diaz\OneDrive - Red de Universidades Anáhuac\Documentos\PagoProfesores\PagoProfesores\ConnectDB\obj\Debug\ConnectDB.csproj.CoreCompileInputs.cache
+C:\Users\David Diaz\OneDrive - Red de Universidades Anáhuac\Documentos\PagoProfesores\PagoProfesores\ConnectDB\obj\Debug\ConnectDB.dll
+C:\Users\David Diaz\OneDrive - Red de Universidades Anáhuac\Documentos\PagoProfesores\PagoProfesores\ConnectDB\obj\Debug\ConnectDB.pdb

@@ -1,0 +1,190 @@
+C:\Users\SERUA\Documents\PROYECTOS\PagoProfesores - Rogelio\PagoProfesores\Factory\bin\Debug\Factory.dll
+C:\Users\SERUA\Documents\PROYECTOS\PagoProfesores - Rogelio\PagoProfesores\Factory\bin\Debug\Factory.pdb
+C:\Users\SERUA\Documents\PROYECTOS\PagoProfesores - Rogelio\PagoProfesores\Factory\bin\Debug\ConnectDB.dll
+C:\Users\SERUA\Documents\PROYECTOS\PagoProfesores - Rogelio\PagoProfesores\Factory\bin\Debug\Session.dll
+C:\Users\SERUA\Documents\PROYECTOS\PagoProfesores - Rogelio\PagoProfesores\Factory\bin\Debug\ConnectDB.pdb
+C:\Users\SERUA\Documents\PROYECTOS\PagoProfesores - Rogelio\PagoProfesores\Factory\bin\Debug\Session.pdb
+C:\Users\SERUA\Documents\PROYECTOS\PagoProfesores - Rogelio\PagoProfesores\Factory\obj\Debug\Factory.csprojResolveAssemblyReference.cache
+C:\Users\SERUA\Documents\PROYECTOS\PagoProfesores - Rogelio\PagoProfesores\Factory\obj\Debug\Factory.dll
+C:\Users\SERUA\Documents\PROYECTOS\PagoProfesores - Rogelio\PagoProfesores\Factory\obj\Debug\Factory.pdb
+C:\Users\SERUA\Documents\PROYECTOS\PagoProfesores\Factory\bin\Debug\Factory.dll
+C:\Users\SERUA\Documents\PROYECTOS\PagoProfesores\Factory\bin\Debug\Factory.pdb
+C:\Users\SERUA\Documents\PROYECTOS\PagoProfesores\Factory\bin\Debug\ConnectDB.dll
+C:\Users\SERUA\Documents\PROYECTOS\PagoProfesores\Factory\bin\Debug\Session.dll
+C:\Users\SERUA\Documents\PROYECTOS\PagoProfesores\Factory\bin\Debug\ConnectDB.pdb
+C:\Users\SERUA\Documents\PROYECTOS\PagoProfesores\Factory\bin\Debug\Session.pdb
+C:\Users\SERUA\Documents\PROYECTOS\PagoProfesores\Factory\obj\Debug\Factory.csprojResolveAssemblyReference.cache
+C:\Users\SERUA\Documents\PROYECTOS\PagoProfesores\Factory\obj\Debug\Factory.dll
+C:\Users\SERUA\Documents\PROYECTOS\PagoProfesores\Factory\obj\Debug\Factory.pdb
+C:\Anahuac\VS\PagoProfesores\Factory\bin\Debug\Factory.dll
+C:\Anahuac\VS\PagoProfesores\Factory\bin\Debug\Factory.pdb
+C:\Anahuac\VS\PagoProfesores\Factory\bin\Debug\ConnectDB.dll
+C:\Anahuac\VS\PagoProfesores\Factory\bin\Debug\Session.dll
+C:\Anahuac\VS\PagoProfesores\Factory\bin\Debug\ConnectDB.pdb
+C:\Anahuac\VS\PagoProfesores\Factory\bin\Debug\Session.pdb
+C:\Anahuac\VS\PagoProfesores\Factory\obj\Debug\Factory.csprojResolveAssemblyReference.cache
+C:\Anahuac\VS\PagoProfesores\Factory\obj\Debug\Factory.dll
+C:\Anahuac\VS\PagoProfesores\Factory\obj\Debug\Factory.pdb
+C:\Anahuac\Desarrollos\VS\Lib_PagoProfesores\Factory\bin\Debug\Factory.dll
+C:\Anahuac\Desarrollos\VS\Lib_PagoProfesores\Factory\bin\Debug\Factory.pdb
+C:\Anahuac\Desarrollos\VS\Lib_PagoProfesores\Factory\bin\Debug\ConnectDB.dll
+C:\Anahuac\Desarrollos\VS\Lib_PagoProfesores\Factory\bin\Debug\Session.dll
+C:\Anahuac\Desarrollos\VS\Lib_PagoProfesores\Factory\bin\Debug\ConnectDB.pdb
+C:\Anahuac\Desarrollos\VS\Lib_PagoProfesores\Factory\bin\Debug\Session.pdb
+C:\Anahuac\Desarrollos\VS\Lib_PagoProfesores\Factory\obj\Debug\Factory.csprojResolveAssemblyReference.cache
+C:\Anahuac\Desarrollos\VS\Lib_PagoProfesores\Factory\obj\Debug\Factory.dll
+C:\Anahuac\Desarrollos\VS\Lib_PagoProfesores\Factory\obj\Debug\Factory.pdb
+C:\Users\Charly\Documents\Proyectos C#\PagoProfesores\Factory\bin\Debug\Factory.dll
+C:\Users\Charly\Documents\Proyectos C#\PagoProfesores\Factory\bin\Debug\Factory.pdb
+C:\Users\Charly\Documents\Proyectos C#\PagoProfesores\Factory\bin\Debug\ConnectDB.dll
+C:\Users\Charly\Documents\Proyectos C#\PagoProfesores\Factory\bin\Debug\Session.dll
+C:\Users\Charly\Documents\Proyectos C#\PagoProfesores\Factory\bin\Debug\ConnectDB.pdb
+C:\Users\Charly\Documents\Proyectos C#\PagoProfesores\Factory\bin\Debug\Session.pdb
+C:\Users\Charly\Documents\Proyectos C#\PagoProfesores\Factory\obj\Debug\Factory.csprojResolveAssemblyReference.cache
+C:\Users\Charly\Documents\Proyectos C#\PagoProfesores\Factory\obj\Debug\Factory.dll
+C:\Users\Charly\Documents\Proyectos C#\PagoProfesores\Factory\obj\Debug\Factory.pdb
+C:\Users\SERUA\Desktop\pago_profesores\Factory\bin\Debug\Factory.dll
+C:\Users\SERUA\Desktop\pago_profesores\Factory\bin\Debug\Factory.pdb
+C:\Users\SERUA\Desktop\pago_profesores\Factory\bin\Debug\ConnectDB.dll
+C:\Users\SERUA\Desktop\pago_profesores\Factory\bin\Debug\Session.dll
+C:\Users\SERUA\Desktop\pago_profesores\Factory\bin\Debug\ConnectDB.pdb
+C:\Users\SERUA\Desktop\pago_profesores\Factory\bin\Debug\Session.pdb
+C:\Users\SERUA\Desktop\pago_profesores\Factory\obj\Debug\Factory.csprojResolveAssemblyReference.cache
+C:\Users\SERUA\Desktop\pago_profesores\Factory\obj\Debug\Factory.dll
+C:\Users\SERUA\Desktop\pago_profesores\Factory\obj\Debug\Factory.pdb
+C:\Users\SERUA\Desktop\PagoProfesores_Alex\Factory\bin\Debug\Factory.dll
+C:\Users\SERUA\Desktop\PagoProfesores_Alex\Factory\bin\Debug\Factory.pdb
+C:\Users\SERUA\Desktop\PagoProfesores_Alex\Factory\bin\Debug\ConnectDB.dll
+C:\Users\SERUA\Desktop\PagoProfesores_Alex\Factory\bin\Debug\Session.dll
+C:\Users\SERUA\Desktop\PagoProfesores_Alex\Factory\bin\Debug\ConnectDB.pdb
+C:\Users\SERUA\Desktop\PagoProfesores_Alex\Factory\bin\Debug\Session.pdb
+C:\Users\SERUA\Desktop\PagoProfesores_Alex\Factory\obj\Debug\Factory.csprojResolveAssemblyReference.cache
+C:\Users\SERUA\Desktop\PagoProfesores_Alex\Factory\obj\Debug\Factory.dll
+C:\Users\SERUA\Desktop\PagoProfesores_Alex\Factory\obj\Debug\Factory.pdb
+C:\Users\SERUA\Desktop\PagoProfesores\Factory\bin\Debug\Factory.dll
+C:\Users\SERUA\Desktop\PagoProfesores\Factory\bin\Debug\Factory.pdb
+C:\Users\SERUA\Desktop\PagoProfesores\Factory\bin\Debug\ConnectDB.dll
+C:\Users\SERUA\Desktop\PagoProfesores\Factory\bin\Debug\Session.dll
+C:\Users\SERUA\Desktop\PagoProfesores\Factory\bin\Debug\ConnectDB.pdb
+C:\Users\SERUA\Desktop\PagoProfesores\Factory\bin\Debug\Session.pdb
+C:\Users\SERUA\Desktop\PagoProfesores\Factory\obj\Debug\Factory.csprojResolveAssemblyReference.cache
+C:\Users\SERUA\Desktop\PagoProfesores\Factory\obj\Debug\Factory.dll
+C:\Users\SERUA\Desktop\PagoProfesores\Factory\obj\Debug\Factory.pdb
+C:\Users\admin\Documents\Visual Studio 2017\Projects\PagoProfesores\Factory\bin\Debug\Factory.dll
+C:\Users\admin\Documents\Visual Studio 2017\Projects\PagoProfesores\Factory\bin\Debug\Factory.pdb
+C:\Users\admin\Documents\Visual Studio 2017\Projects\PagoProfesores\Factory\bin\Debug\ConnectDB.dll
+C:\Users\admin\Documents\Visual Studio 2017\Projects\PagoProfesores\Factory\bin\Debug\Session.dll
+C:\Users\admin\Documents\Visual Studio 2017\Projects\PagoProfesores\Factory\bin\Debug\ConnectDB.pdb
+C:\Users\admin\Documents\Visual Studio 2017\Projects\PagoProfesores\Factory\bin\Debug\Session.pdb
+C:\Users\admin\Documents\Visual Studio 2017\Projects\PagoProfesores\Factory\obj\Debug\Factory.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\Visual Studio 2017\Projects\PagoProfesores\Factory\obj\Debug\Factory.dll
+C:\Users\admin\Documents\Visual Studio 2017\Projects\PagoProfesores\Factory\obj\Debug\Factory.pdb
+C:\clara\app\CLARA_PagoProfesores\Factory\bin\Debug\Factory.dll
+C:\clara\app\CLARA_PagoProfesores\Factory\bin\Debug\Factory.pdb
+C:\clara\app\CLARA_PagoProfesores\Factory\bin\Debug\ConnectDB.dll
+C:\clara\app\CLARA_PagoProfesores\Factory\bin\Debug\Session.dll
+C:\clara\app\CLARA_PagoProfesores\Factory\bin\Debug\ConnectDB.pdb
+C:\clara\app\CLARA_PagoProfesores\Factory\bin\Debug\Session.pdb
+C:\clara\app\CLARA_PagoProfesores\Factory\obj\Debug\Factory.csprojResolveAssemblyReference.cache
+C:\clara\app\CLARA_PagoProfesores\Factory\obj\Debug\Factory.dll
+C:\clara\app\CLARA_PagoProfesores\Factory\obj\Debug\Factory.pdb
+C:\clara\app\ver_pago\pago_ver_prod_iaas\CLARA_PagoProfesores\Factory\bin\Debug\Factory.dll
+C:\clara\app\ver_pago\pago_ver_prod_iaas\CLARA_PagoProfesores\Factory\bin\Debug\Factory.pdb
+C:\clara\app\ver_pago\pago_ver_prod_iaas\CLARA_PagoProfesores\Factory\bin\Debug\ConnectDB.dll
+C:\clara\app\ver_pago\pago_ver_prod_iaas\CLARA_PagoProfesores\Factory\bin\Debug\Session.dll
+C:\clara\app\ver_pago\pago_ver_prod_iaas\CLARA_PagoProfesores\Factory\bin\Debug\ConnectDB.pdb
+C:\clara\app\ver_pago\pago_ver_prod_iaas\CLARA_PagoProfesores\Factory\bin\Debug\Session.pdb
+C:\clara\app\ver_pago\pago_ver_prod_iaas\CLARA_PagoProfesores\Factory\obj\Debug\Factory.csprojResolveAssemblyReference.cache
+C:\clara\app\ver_pago\pago_ver_prod_iaas\CLARA_PagoProfesores\Factory\obj\Debug\Factory.dll
+C:\clara\app\ver_pago\pago_ver_prod_iaas\CLARA_PagoProfesores\Factory\obj\Debug\Factory.pdb
+C:\Anahuac\Desarrollos\VS\CLARA_PagoProfesores\Factory\bin\Debug\Factory.dll
+C:\Anahuac\Desarrollos\VS\CLARA_PagoProfesores\Factory\bin\Debug\Factory.pdb
+C:\Anahuac\Desarrollos\VS\CLARA_PagoProfesores\Factory\bin\Debug\ConnectDB.dll
+C:\Anahuac\Desarrollos\VS\CLARA_PagoProfesores\Factory\bin\Debug\Session.dll
+C:\Anahuac\Desarrollos\VS\CLARA_PagoProfesores\Factory\bin\Debug\ConnectDB.pdb
+C:\Anahuac\Desarrollos\VS\CLARA_PagoProfesores\Factory\bin\Debug\Session.pdb
+C:\Anahuac\Desarrollos\VS\CLARA_PagoProfesores\Factory\obj\Debug\Factory.dll
+C:\Anahuac\Desarrollos\VS\CLARA_PagoProfesores\Factory\obj\Debug\Factory.pdb
+C:\Anahuac\Desarrollos\VS\CLARA_PagoProfesores\Factory\obj\Debug\Factory.csprojAssemblyReference.cache
+C:\Anahuac\Desarrollos\VS\CLARA_PagoProfesores\Factory\obj\Debug\Factory.csproj.CoreCompileInputs.cache
+C:\Anahuac\Desarrollos\VS\CLARA_PagoProfesores\Factory\obj\Debug\Factory.csproj.CopyComplete
+C:\Users\SERUA\Desktop\vmeses_pagopf_actual\CLARA_PagoProfesores\Factory\bin\Debug\Factory.dll
+C:\Users\SERUA\Desktop\vmeses_pagopf_actual\CLARA_PagoProfesores\Factory\bin\Debug\Factory.pdb
+C:\Users\SERUA\Desktop\vmeses_pagopf_actual\CLARA_PagoProfesores\Factory\bin\Debug\ConnectDB.dll
+C:\Users\SERUA\Desktop\vmeses_pagopf_actual\CLARA_PagoProfesores\Factory\bin\Debug\Session.dll
+C:\Users\SERUA\Desktop\vmeses_pagopf_actual\CLARA_PagoProfesores\Factory\bin\Debug\ConnectDB.pdb
+C:\Users\SERUA\Desktop\vmeses_pagopf_actual\CLARA_PagoProfesores\Factory\bin\Debug\Session.pdb
+C:\Users\SERUA\Desktop\vmeses_pagopf_actual\CLARA_PagoProfesores\Factory\obj\Debug\Factory.csprojResolveAssemblyReference.cache
+C:\Users\SERUA\Desktop\vmeses_pagopf_actual\CLARA_PagoProfesores\Factory\obj\Debug\Factory.dll
+C:\Users\SERUA\Desktop\vmeses_pagopf_actual\CLARA_PagoProfesores\Factory\obj\Debug\Factory.pdb
+C:\Users\abaca\Documents\Visual Studio 2017\Projects\CLARA_PagoProfesores\Factory\bin\Debug\Factory.dll
+C:\Users\abaca\Documents\Visual Studio 2017\Projects\CLARA_PagoProfesores\Factory\bin\Debug\Factory.pdb
+C:\Users\abaca\Documents\Visual Studio 2017\Projects\CLARA_PagoProfesores\Factory\bin\Debug\ConnectDB.dll
+C:\Users\abaca\Documents\Visual Studio 2017\Projects\CLARA_PagoProfesores\Factory\bin\Debug\Session.dll
+C:\Users\abaca\Documents\Visual Studio 2017\Projects\CLARA_PagoProfesores\Factory\bin\Debug\ConnectDB.pdb
+C:\Users\abaca\Documents\Visual Studio 2017\Projects\CLARA_PagoProfesores\Factory\bin\Debug\Session.pdb
+C:\Users\abaca\Documents\Visual Studio 2017\Projects\CLARA_PagoProfesores\Factory\obj\Debug\Factory.csprojResolveAssemblyReference.cache
+C:\Users\abaca\Documents\Visual Studio 2017\Projects\CLARA_PagoProfesores\Factory\obj\Debug\Factory.csproj.CoreCompileInputs.cache
+C:\Users\abaca\Documents\Visual Studio 2017\Projects\CLARA_PagoProfesores\Factory\obj\Debug\Factory.dll
+C:\Users\abaca\Documents\Visual Studio 2017\Projects\CLARA_PagoProfesores\Factory\obj\Debug\Factory.pdb
+C:\Users\Serua\Documents\Proyectos\Clara\PagoProfesores\Original-160519-PDF\PagoProfesores\Factory\bin\Debug\Factory.dll
+C:\Users\Serua\Documents\Proyectos\Clara\PagoProfesores\Original-160519-PDF\PagoProfesores\Factory\bin\Debug\Factory.pdb
+C:\Users\Serua\Documents\Proyectos\Clara\PagoProfesores\Original-160519-PDF\PagoProfesores\Factory\bin\Debug\ConnectDB.dll
+C:\Users\Serua\Documents\Proyectos\Clara\PagoProfesores\Original-160519-PDF\PagoProfesores\Factory\bin\Debug\Session.dll
+C:\Users\Serua\Documents\Proyectos\Clara\PagoProfesores\Original-160519-PDF\PagoProfesores\Factory\bin\Debug\ConnectDB.pdb
+C:\Users\Serua\Documents\Proyectos\Clara\PagoProfesores\Original-160519-PDF\PagoProfesores\Factory\bin\Debug\Session.pdb
+C:\Users\Serua\Documents\Proyectos\Clara\PagoProfesores\Original-160519-PDF\PagoProfesores\Factory\obj\Debug\Factory.csprojAssemblyReference.cache
+C:\Users\Serua\Documents\Proyectos\Clara\PagoProfesores\Original-160519-PDF\PagoProfesores\Factory\obj\Debug\Factory.csproj.CoreCompileInputs.cache
+C:\Users\Serua\Documents\Proyectos\Clara\PagoProfesores\Original-160519-PDF\PagoProfesores\Factory\obj\Debug\Factory.csproj.CopyComplete
+C:\Users\Serua\Documents\Proyectos\Clara\PagoProfesores\Original-160519-PDF\PagoProfesores\Factory\obj\Debug\Factory.dll
+C:\Users\Serua\Documents\Proyectos\Clara\PagoProfesores\Original-160519-PDF\PagoProfesores\Factory\obj\Debug\Factory.pdb
+C:\Users\SERUA\Desktop\storage_pago\Original-160519-PDF\PagoProfesores\Factory\bin\Debug\Factory.dll
+C:\Users\SERUA\Desktop\storage_pago\Original-160519-PDF\PagoProfesores\Factory\bin\Debug\Factory.pdb
+C:\Users\SERUA\Desktop\storage_pago\Original-160519-PDF\PagoProfesores\Factory\bin\Debug\ConnectDB.dll
+C:\Users\SERUA\Desktop\storage_pago\Original-160519-PDF\PagoProfesores\Factory\bin\Debug\Session.dll
+C:\Users\SERUA\Desktop\storage_pago\Original-160519-PDF\PagoProfesores\Factory\bin\Debug\ConnectDB.pdb
+C:\Users\SERUA\Desktop\storage_pago\Original-160519-PDF\PagoProfesores\Factory\bin\Debug\Session.pdb
+C:\Users\SERUA\Desktop\storage_pago\Original-160519-PDF\PagoProfesores\Factory\obj\Debug\Factory.csprojResolveAssemblyReference.cache
+C:\Users\SERUA\Desktop\storage_pago\Original-160519-PDF\PagoProfesores\Factory\obj\Debug\Factory.dll
+C:\Users\SERUA\Desktop\storage_pago\Original-160519-PDF\PagoProfesores\Factory\obj\Debug\Factory.pdb
+C:\Users\SERUA\Desktop\storage_pago\Original-160519-PDF_prod\PagoProfesores\Factory\bin\Debug\Factory.dll
+C:\Users\SERUA\Desktop\storage_pago\Original-160519-PDF_prod\PagoProfesores\Factory\bin\Debug\Factory.pdb
+C:\Users\SERUA\Desktop\storage_pago\Original-160519-PDF_prod\PagoProfesores\Factory\bin\Debug\ConnectDB.dll
+C:\Users\SERUA\Desktop\storage_pago\Original-160519-PDF_prod\PagoProfesores\Factory\bin\Debug\Session.dll
+C:\Users\SERUA\Desktop\storage_pago\Original-160519-PDF_prod\PagoProfesores\Factory\bin\Debug\ConnectDB.pdb
+C:\Users\SERUA\Desktop\storage_pago\Original-160519-PDF_prod\PagoProfesores\Factory\bin\Debug\Session.pdb
+C:\Users\SERUA\Desktop\storage_pago\Original-160519-PDF_prod\PagoProfesores\Factory\obj\Debug\Factory.csprojResolveAssemblyReference.cache
+C:\Users\SERUA\Desktop\storage_pago\Original-160519-PDF_prod\PagoProfesores\Factory\obj\Debug\Factory.dll
+C:\Users\SERUA\Desktop\storage_pago\Original-160519-PDF_prod\PagoProfesores\Factory\obj\Debug\Factory.pdb
+C:\Users\abaca\Documents\Visual Studio 2017\Projects\PagoProfesores\Factory\bin\Debug\Factory.dll
+C:\Users\abaca\Documents\Visual Studio 2017\Projects\PagoProfesores\Factory\bin\Debug\Factory.pdb
+C:\Users\abaca\Documents\Visual Studio 2017\Projects\PagoProfesores\Factory\bin\Debug\ConnectDB.dll
+C:\Users\abaca\Documents\Visual Studio 2017\Projects\PagoProfesores\Factory\bin\Debug\Session.dll
+C:\Users\abaca\Documents\Visual Studio 2017\Projects\PagoProfesores\Factory\bin\Debug\ConnectDB.pdb
+C:\Users\abaca\Documents\Visual Studio 2017\Projects\PagoProfesores\Factory\bin\Debug\Session.pdb
+C:\Users\abaca\Documents\Visual Studio 2017\Projects\PagoProfesores\Factory\obj\Debug\Factory.csprojResolveAssemblyReference.cache
+C:\Users\abaca\Documents\Visual Studio 2017\Projects\PagoProfesores\Factory\obj\Debug\Factory.csproj.CoreCompileInputs.cache
+C:\Users\abaca\Documents\Visual Studio 2017\Projects\PagoProfesores\Factory\obj\Debug\Factory.dll
+C:\Users\abaca\Documents\Visual Studio 2017\Projects\PagoProfesores\Factory\obj\Debug\Factory.pdb
+C:\Users\David Diaz\OneDrive - Red de Universidades Anáhuac\Documentos\PagoProfesores\PagoProfesores\Factory\bin\Debug\Factory.dll
+C:\Users\David Diaz\OneDrive - Red de Universidades Anáhuac\Documentos\PagoProfesores\PagoProfesores\Factory\bin\Debug\Factory.pdb
+C:\Users\David Diaz\OneDrive - Red de Universidades Anáhuac\Documentos\PagoProfesores\PagoProfesores\Factory\bin\Debug\ConnectDB.dll
+C:\Users\David Diaz\OneDrive - Red de Universidades Anáhuac\Documentos\PagoProfesores\PagoProfesores\Factory\bin\Debug\Session.dll
+C:\Users\David Diaz\OneDrive - Red de Universidades Anáhuac\Documentos\PagoProfesores\PagoProfesores\Factory\bin\Debug\ConnectDB.pdb
+C:\Users\David Diaz\OneDrive - Red de Universidades Anáhuac\Documentos\PagoProfesores\PagoProfesores\Factory\bin\Debug\Session.pdb
+C:\Users\David Diaz\OneDrive - Red de Universidades Anáhuac\Documentos\PagoProfesores\PagoProfesores\Factory\obj\Debug\Factory.csprojAssemblyReference.cache
+C:\Users\David Diaz\OneDrive - Red de Universidades Anáhuac\Documentos\PagoProfesores\PagoProfesores\Factory\obj\Debug\Factory.csproj.CoreCompileInputs.cache
+C:\Users\David Diaz\OneDrive - Red de Universidades Anáhuac\Documentos\PagoProfesores\PagoProfesores\Factory\obj\Debug\Factory.csproj.CopyComplete
+C:\Users\David Diaz\OneDrive - Red de Universidades Anáhuac\Documentos\PagoProfesores\PagoProfesores\Factory\obj\Debug\Factory.dll
+C:\Users\David Diaz\OneDrive - Red de Universidades Anáhuac\Documentos\PagoProfesores\PagoProfesores\Factory\obj\Debug\Factory.pdb
+C:\xampp\htdocs\Lib_PagoProfesores\Factory\bin\Debug\Factory.dll
+C:\xampp\htdocs\Lib_PagoProfesores\Factory\bin\Debug\Factory.pdb
+C:\xampp\htdocs\Lib_PagoProfesores\Factory\bin\Debug\ConnectDB.dll
+C:\xampp\htdocs\Lib_PagoProfesores\Factory\bin\Debug\Session.dll
+C:\xampp\htdocs\Lib_PagoProfesores\Factory\bin\Debug\ConnectDB.pdb
+C:\xampp\htdocs\Lib_PagoProfesores\Factory\bin\Debug\Session.pdb
+C:\xampp\htdocs\Lib_PagoProfesores\Factory\obj\Debug\Factory.csprojAssemblyReference.cache
+C:\xampp\htdocs\Lib_PagoProfesores\Factory\obj\Debug\Factory.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\Lib_PagoProfesores\Factory\obj\Debug\Factory.csproj.CopyComplete
+C:\xampp\htdocs\Lib_PagoProfesores\Factory\obj\Debug\Factory.dll
+C:\xampp\htdocs\Lib_PagoProfesores\Factory\obj\Debug\Factory.pdb

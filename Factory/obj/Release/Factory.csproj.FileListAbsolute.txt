@@ -1,0 +1,125 @@
+C:\Anahuac\Desarrollos\VS\Lib_PagoProfesores\Factory\bin\Release\Factory.dll
+C:\Anahuac\Desarrollos\VS\Lib_PagoProfesores\Factory\bin\Release\Factory.pdb
+C:\Anahuac\Desarrollos\VS\Lib_PagoProfesores\Factory\bin\Release\ConnectDB.dll
+C:\Anahuac\Desarrollos\VS\Lib_PagoProfesores\Factory\bin\Release\Session.dll
+C:\Anahuac\Desarrollos\VS\Lib_PagoProfesores\Factory\bin\Release\ConnectDB.pdb
+C:\Anahuac\Desarrollos\VS\Lib_PagoProfesores\Factory\bin\Release\Session.pdb
+C:\Anahuac\Desarrollos\VS\Lib_PagoProfesores\Factory\obj\Release\Factory.csprojResolveAssemblyReference.cache
+C:\Anahuac\Desarrollos\VS\Lib_PagoProfesores\Factory\obj\Release\Factory.dll
+C:\Anahuac\Desarrollos\VS\Lib_PagoProfesores\Factory\obj\Release\Factory.pdb
+C:\Users\Charly\Documents\Proyectos C#\PagoProfesores\Factory\bin\Release\Factory.dll
+C:\Users\Charly\Documents\Proyectos C#\PagoProfesores\Factory\bin\Release\Factory.pdb
+C:\Users\Charly\Documents\Proyectos C#\PagoProfesores\Factory\bin\Release\ConnectDB.dll
+C:\Users\Charly\Documents\Proyectos C#\PagoProfesores\Factory\bin\Release\Session.dll
+C:\Users\Charly\Documents\Proyectos C#\PagoProfesores\Factory\bin\Release\ConnectDB.pdb
+C:\Users\Charly\Documents\Proyectos C#\PagoProfesores\Factory\bin\Release\Session.pdb
+C:\Users\Charly\Documents\Proyectos C#\PagoProfesores\Factory\obj\Release\Factory.csprojResolveAssemblyReference.cache
+C:\Users\Charly\Documents\Proyectos C#\PagoProfesores\Factory\obj\Release\Factory.dll
+C:\Users\Charly\Documents\Proyectos C#\PagoProfesores\Factory\obj\Release\Factory.pdb
+C:\Users\admin\Documents\Visual Studio 2017\Projects\PagoProfesores\Factory\bin\Release\Factory.dll
+C:\Users\admin\Documents\Visual Studio 2017\Projects\PagoProfesores\Factory\bin\Release\Factory.pdb
+C:\Users\admin\Documents\Visual Studio 2017\Projects\PagoProfesores\Factory\bin\Release\ConnectDB.dll
+C:\Users\admin\Documents\Visual Studio 2017\Projects\PagoProfesores\Factory\bin\Release\Session.dll
+C:\Users\admin\Documents\Visual Studio 2017\Projects\PagoProfesores\Factory\bin\Release\ConnectDB.pdb
+C:\Users\admin\Documents\Visual Studio 2017\Projects\PagoProfesores\Factory\bin\Release\Session.pdb
+C:\Users\admin\Documents\Visual Studio 2017\Projects\PagoProfesores\Factory\obj\Release\Factory.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\Visual Studio 2017\Projects\PagoProfesores\Factory\obj\Release\Factory.dll
+C:\Users\admin\Documents\Visual Studio 2017\Projects\PagoProfesores\Factory\obj\Release\Factory.pdb
+C:\Users\SERUA\Desktop\PagoProfesores_Alex\Factory\bin\Release\Factory.dll
+C:\Users\SERUA\Desktop\PagoProfesores_Alex\Factory\bin\Release\Factory.pdb
+C:\Users\SERUA\Desktop\PagoProfesores_Alex\Factory\bin\Release\ConnectDB.dll
+C:\Users\SERUA\Desktop\PagoProfesores_Alex\Factory\bin\Release\Session.dll
+C:\Users\SERUA\Desktop\PagoProfesores_Alex\Factory\bin\Release\ConnectDB.pdb
+C:\Users\SERUA\Desktop\PagoProfesores_Alex\Factory\bin\Release\Session.pdb
+C:\Users\SERUA\Desktop\PagoProfesores_Alex\Factory\obj\Release\Factory.csprojResolveAssemblyReference.cache
+C:\Users\SERUA\Desktop\PagoProfesores_Alex\Factory\obj\Release\Factory.dll
+C:\Users\SERUA\Desktop\PagoProfesores_Alex\Factory\obj\Release\Factory.pdb
+C:\Users\abaca\Documents\Visual Studio 2017\Projects\PagoProfesores\Factory\bin\Release\Factory.dll
+C:\Users\abaca\Documents\Visual Studio 2017\Projects\PagoProfesores\Factory\bin\Release\Factory.pdb
+C:\Users\abaca\Documents\Visual Studio 2017\Projects\PagoProfesores\Factory\bin\Release\ConnectDB.dll
+C:\Users\abaca\Documents\Visual Studio 2017\Projects\PagoProfesores\Factory\bin\Release\Session.dll
+C:\Users\abaca\Documents\Visual Studio 2017\Projects\PagoProfesores\Factory\bin\Release\ConnectDB.pdb
+C:\Users\abaca\Documents\Visual Studio 2017\Projects\PagoProfesores\Factory\bin\Release\Session.pdb
+C:\Users\abaca\Documents\Visual Studio 2017\Projects\PagoProfesores\Factory\obj\Release\Factory.csprojResolveAssemblyReference.cache
+C:\Users\abaca\Documents\Visual Studio 2017\Projects\PagoProfesores\Factory\obj\Release\Factory.csproj.CoreCompileInputs.cache
+C:\Users\abaca\Documents\Visual Studio 2017\Projects\PagoProfesores\Factory\obj\Release\Factory.dll
+C:\Users\abaca\Documents\Visual Studio 2017\Projects\PagoProfesores\Factory\obj\Release\Factory.pdb
+C:\clara\app\CLARA_PagoProfesores\Factory\bin\Release\Factory.dll
+C:\clara\app\CLARA_PagoProfesores\Factory\bin\Release\Factory.pdb
+C:\clara\app\CLARA_PagoProfesores\Factory\bin\Release\ConnectDB.dll
+C:\clara\app\CLARA_PagoProfesores\Factory\bin\Release\Session.dll
+C:\clara\app\CLARA_PagoProfesores\Factory\bin\Release\ConnectDB.pdb
+C:\clara\app\CLARA_PagoProfesores\Factory\bin\Release\Session.pdb
+C:\clara\app\CLARA_PagoProfesores\Factory\obj\Release\Factory.csprojResolveAssemblyReference.cache
+C:\clara\app\CLARA_PagoProfesores\Factory\obj\Release\Factory.dll
+C:\clara\app\CLARA_PagoProfesores\Factory\obj\Release\Factory.pdb
+C:\clara\app\ver_pago\pago_ver_prod_iaas\CLARA_PagoProfesores\Factory\bin\Release\Factory.dll
+C:\clara\app\ver_pago\pago_ver_prod_iaas\CLARA_PagoProfesores\Factory\bin\Release\Factory.pdb
+C:\clara\app\ver_pago\pago_ver_prod_iaas\CLARA_PagoProfesores\Factory\bin\Release\ConnectDB.dll
+C:\clara\app\ver_pago\pago_ver_prod_iaas\CLARA_PagoProfesores\Factory\bin\Release\Session.dll
+C:\clara\app\ver_pago\pago_ver_prod_iaas\CLARA_PagoProfesores\Factory\bin\Release\ConnectDB.pdb
+C:\clara\app\ver_pago\pago_ver_prod_iaas\CLARA_PagoProfesores\Factory\bin\Release\Session.pdb
+C:\clara\app\ver_pago\pago_ver_prod_iaas\CLARA_PagoProfesores\Factory\obj\Release\Factory.csprojResolveAssemblyReference.cache
+C:\clara\app\ver_pago\pago_ver_prod_iaas\CLARA_PagoProfesores\Factory\obj\Release\Factory.dll
+C:\clara\app\ver_pago\pago_ver_prod_iaas\CLARA_PagoProfesores\Factory\obj\Release\Factory.pdb
+C:\Anahuac\Desarrollos\VS\CLARA_PagoProfesores\Factory\bin\Release\Factory.dll
+C:\Anahuac\Desarrollos\VS\CLARA_PagoProfesores\Factory\bin\Release\Factory.pdb
+C:\Anahuac\Desarrollos\VS\CLARA_PagoProfesores\Factory\bin\Release\ConnectDB.dll
+C:\Anahuac\Desarrollos\VS\CLARA_PagoProfesores\Factory\bin\Release\Session.dll
+C:\Anahuac\Desarrollos\VS\CLARA_PagoProfesores\Factory\bin\Release\ConnectDB.pdb
+C:\Anahuac\Desarrollos\VS\CLARA_PagoProfesores\Factory\bin\Release\Session.pdb
+C:\Anahuac\Desarrollos\VS\CLARA_PagoProfesores\Factory\obj\Release\Factory.dll
+C:\Anahuac\Desarrollos\VS\CLARA_PagoProfesores\Factory\obj\Release\Factory.pdb
+C:\Anahuac\Desarrollos\VS\CLARA_PagoProfesores\Factory\obj\Release\Factory.csprojAssemblyReference.cache
+C:\Anahuac\Desarrollos\VS\CLARA_PagoProfesores\Factory\obj\Release\Factory.csproj.CoreCompileInputs.cache
+C:\Anahuac\Desarrollos\VS\CLARA_PagoProfesores\Factory\obj\Release\Factory.csproj.CopyComplete
+C:\Users\SERUA\Desktop\vmeses_pagopf_actual\CLARA_PagoProfesores\Factory\bin\Release\Factory.dll
+C:\Users\SERUA\Desktop\vmeses_pagopf_actual\CLARA_PagoProfesores\Factory\bin\Release\Factory.pdb
+C:\Users\SERUA\Desktop\vmeses_pagopf_actual\CLARA_PagoProfesores\Factory\bin\Release\ConnectDB.dll
+C:\Users\SERUA\Desktop\vmeses_pagopf_actual\CLARA_PagoProfesores\Factory\bin\Release\Session.dll
+C:\Users\SERUA\Desktop\vmeses_pagopf_actual\CLARA_PagoProfesores\Factory\bin\Release\ConnectDB.pdb
+C:\Users\SERUA\Desktop\vmeses_pagopf_actual\CLARA_PagoProfesores\Factory\bin\Release\Session.pdb
+C:\Users\SERUA\Desktop\vmeses_pagopf_actual\CLARA_PagoProfesores\Factory\obj\Release\Factory.csprojResolveAssemblyReference.cache
+C:\Users\SERUA\Desktop\vmeses_pagopf_actual\CLARA_PagoProfesores\Factory\obj\Release\Factory.dll
+C:\Users\SERUA\Desktop\vmeses_pagopf_actual\CLARA_PagoProfesores\Factory\obj\Release\Factory.pdb
+C:\Users\abaca\Documents\Visual Studio 2017\Projects\CLARA_PagoProfesores\Factory\bin\Release\Factory.dll
+C:\Users\abaca\Documents\Visual Studio 2017\Projects\CLARA_PagoProfesores\Factory\bin\Release\Factory.pdb
+C:\Users\abaca\Documents\Visual Studio 2017\Projects\CLARA_PagoProfesores\Factory\bin\Release\ConnectDB.dll
+C:\Users\abaca\Documents\Visual Studio 2017\Projects\CLARA_PagoProfesores\Factory\bin\Release\Session.dll
+C:\Users\abaca\Documents\Visual Studio 2017\Projects\CLARA_PagoProfesores\Factory\bin\Release\ConnectDB.pdb
+C:\Users\abaca\Documents\Visual Studio 2017\Projects\CLARA_PagoProfesores\Factory\bin\Release\Session.pdb
+C:\Users\abaca\Documents\Visual Studio 2017\Projects\CLARA_PagoProfesores\Factory\obj\Release\Factory.csprojResolveAssemblyReference.cache
+C:\Users\abaca\Documents\Visual Studio 2017\Projects\CLARA_PagoProfesores\Factory\obj\Release\Factory.csproj.CoreCompileInputs.cache
+C:\Users\abaca\Documents\Visual Studio 2017\Projects\CLARA_PagoProfesores\Factory\obj\Release\Factory.dll
+C:\Users\abaca\Documents\Visual Studio 2017\Projects\CLARA_PagoProfesores\Factory\obj\Release\Factory.pdb
+C:\Users\Serua\Documents\Proyectos\Clara\PagoProfesores\Original-160519-PDF\PagoProfesores\Factory\bin\Release\Factory.dll
+C:\Users\Serua\Documents\Proyectos\Clara\PagoProfesores\Original-160519-PDF\PagoProfesores\Factory\bin\Release\Factory.pdb
+C:\Users\Serua\Documents\Proyectos\Clara\PagoProfesores\Original-160519-PDF\PagoProfesores\Factory\bin\Release\ConnectDB.dll
+C:\Users\Serua\Documents\Proyectos\Clara\PagoProfesores\Original-160519-PDF\PagoProfesores\Factory\bin\Release\Session.dll
+C:\Users\Serua\Documents\Proyectos\Clara\PagoProfesores\Original-160519-PDF\PagoProfesores\Factory\bin\Release\ConnectDB.pdb
+C:\Users\Serua\Documents\Proyectos\Clara\PagoProfesores\Original-160519-PDF\PagoProfesores\Factory\bin\Release\Session.pdb
+C:\Users\Serua\Documents\Proyectos\Clara\PagoProfesores\Original-160519-PDF\PagoProfesores\Factory\obj\Release\Factory.csprojAssemblyReference.cache
+C:\Users\Serua\Documents\Proyectos\Clara\PagoProfesores\Original-160519-PDF\PagoProfesores\Factory\obj\Release\Factory.csproj.CoreCompileInputs.cache
+C:\Users\Serua\Documents\Proyectos\Clara\PagoProfesores\Original-160519-PDF\PagoProfesores\Factory\obj\Release\Factory.csproj.CopyComplete
+C:\Users\Serua\Documents\Proyectos\Clara\PagoProfesores\Original-160519-PDF\PagoProfesores\Factory\obj\Release\Factory.dll
+C:\Users\Serua\Documents\Proyectos\Clara\PagoProfesores\Original-160519-PDF\PagoProfesores\Factory\obj\Release\Factory.pdb
+C:\Users\SERUA\Desktop\storage_pago\Original-160519-PDF\PagoProfesores\Factory\bin\Release\Factory.dll
+C:\Users\SERUA\Desktop\storage_pago\Original-160519-PDF\PagoProfesores\Factory\bin\Release\Factory.pdb
+C:\Users\SERUA\Desktop\storage_pago\Original-160519-PDF\PagoProfesores\Factory\bin\Release\ConnectDB.dll
+C:\Users\SERUA\Desktop\storage_pago\Original-160519-PDF\PagoProfesores\Factory\bin\Release\Session.dll
+C:\Users\SERUA\Desktop\storage_pago\Original-160519-PDF\PagoProfesores\Factory\bin\Release\ConnectDB.pdb
+C:\Users\SERUA\Desktop\storage_pago\Original-160519-PDF\PagoProfesores\Factory\bin\Release\Session.pdb
+C:\Users\SERUA\Desktop\storage_pago\Original-160519-PDF\PagoProfesores\Factory\obj\Release\Factory.csprojResolveAssemblyReference.cache
+C:\Users\SERUA\Desktop\storage_pago\Original-160519-PDF\PagoProfesores\Factory\obj\Release\Factory.dll
+C:\Users\SERUA\Desktop\storage_pago\Original-160519-PDF\PagoProfesores\Factory\obj\Release\Factory.pdb
+C:\Users\David Diaz\OneDrive - Red de Universidades Anáhuac\Documentos\PagoProfesores\PagoProfesores\Factory\bin\Release\Factory.dll
+C:\Users\David Diaz\OneDrive - Red de Universidades Anáhuac\Documentos\PagoProfesores\PagoProfesores\Factory\bin\Release\Factory.pdb
+C:\Users\David Diaz\OneDrive - Red de Universidades Anáhuac\Documentos\PagoProfesores\PagoProfesores\Factory\bin\Release\ConnectDB.dll
+C:\Users\David Diaz\OneDrive - Red de Universidades Anáhuac\Documentos\PagoProfesores\PagoProfesores\Factory\bin\Release\Session.dll
+C:\Users\David Diaz\OneDrive - Red de Universidades Anáhuac\Documentos\PagoProfesores\PagoProfesores\Factory\bin\Release\ConnectDB.pdb
+C:\Users\David Diaz\OneDrive - Red de Universidades Anáhuac\Documentos\PagoProfesores\PagoProfesores\Factory\bin\Release\Session.pdb
+C:\Users\David Diaz\OneDrive - Red de Universidades Anáhuac\Documentos\PagoProfesores\PagoProfesores\Factory\obj\Release\Factory.csprojAssemblyReference.cache
+C:\Users\David Diaz\OneDrive - Red de Universidades Anáhuac\Documentos\PagoProfesores\PagoProfesores\Factory\obj\Release\Factory.csproj.CoreCompileInputs.cache
+C:\Users\David Diaz\OneDrive - Red de Universidades Anáhuac\Documentos\PagoProfesores\PagoProfesores\Factory\obj\Release\Factory.csproj.CopyComplete
+C:\Users\David Diaz\OneDrive - Red de Universidades Anáhuac\Documentos\PagoProfesores\PagoProfesores\Factory\obj\Release\Factory.dll
+C:\Users\David Diaz\OneDrive - Red de Universidades Anáhuac\Documentos\PagoProfesores\PagoProfesores\Factory\obj\Release\Factory.pdb
