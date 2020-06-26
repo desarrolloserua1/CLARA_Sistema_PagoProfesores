@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd" xmlns:cfdi="http://www.sat.gob.mx/cfd/3" version="3.2" serie="B" folio="80" fecha="2017-11-27T18:05:20" sello="XonEfe2i8w46uZYCdiT/Shw9VhR3WQAFPvql5wA0Fr6pzTSzkRZDuJg5DLXi9HtHG3xWP7gdcf2bGr4Jq3z/Tlquta3aFeY52yeJXl2nRJWscZkD8GqMNCFDOGMYC8DAppOAKcyzHFegBf2RhGg5miBmC8symw9JRl7UF5EkaUY=" formaDePago="Pago en una sola exhibición" noCertificado="00001000000301966864" certificado="MIIEfTCCA2WgAwIBAgIUMDAwMDEwMDAwMDAzMDE5NjY4NjQwDQYJKoZIhvcNAQEFBQAwggGKMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMR8wHQYJKoZIhvcNAQkBFhBhY29kc0BzYXQuZ29iLm14MSYwJAYDVQQJDB1Bdi4gSGlkYWxnbyA3NywgQ29sLiBHdWVycmVybzEOMAwGA1UEEQwFMDYzMDAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBEaXN0cml0byBGZWRlcmFsMRQwEgYDVQQHDAtDdWF1aHTDqW1vYzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMTUwMwYJKoZIhvcNAQkCDCZSZXNwb25zYWJsZTogQ2xhdWRpYSBDb3ZhcnJ1YmlhcyBPY2hvYTAeFw0xMzEyMjExODAwNTRaFw0xNzEyMjExODAwNTRaMIHJMSMwIQYDVQQDExpNQVJUSEEgRUxFTkEgQkFFWiBNQVJUSU5FWjEjMCEGA1UEKRMaTUFSVEhBIEVMRU5BIEJBRVogTUFSVElORVoxIzAhBgNVBAoTGk1BUlRIQSBFTEVOQSBCQUVaIE1BUlRJTkVaMRYwFAYDVQQtEw1CQU1NNjYwMjIzQjQwMRswGQYDVQQFExJCQU1NNjYwMjIzTVZaWlJSMDcxIzAhBgNVBAsTGk1BUlRIQSBFTEVOQSBCQUVaIE1BUlRJTkVaMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCM2Qts0kF33c0VI4yiFBV2dqKIYraHwbrVEDpwdj9eP9ecZ2TuoQChIM32TnYD0X5R5kdy4XDPoGV0rb9rn4DkJ4eTEadCh9j8RR02WjVz9QA9uGUO5mK0h9gRLdjmPbocvcUoAuORkeqYGQHxwXTYRW2NaUpfpjto1bINJeUlmwIDAQABox0wGzAMBgNVHRMBAf8EAjAAMAsGA1UdDwQEAwIGwDANBgkqhkiG9w0BAQUFAAOCAQEAuwKN9vMUjCo3MADqbFL3YkSXXvHbmG8rFpanj/yfR6xl3fmaQ56B/sqYYTaFOfIP79xxsL0wnecipfdLxVjj7p0R1tdHnD21vxVEfiIUsQIUB3mrwl3/HeAXg+yk9a1RNzIeAVddKcnfIGHBbsntNa6bQaWLpbsNfPvNnAwdtF2eom3lhclNwQxzn1jIIcR1TJvA0DD+b4jlIRfcAFWmdS3LOkw+LuNYvmW/u1aQD/FJjqNRNw+C2AOZ14/jn0YP8BKKoALqIz8XcepqVCB4f0ecg3fBMbaUOAf1lAxuv2ROWcodwcd2hHvPsQNZK8FR8T8N367HLhmjGn35+iKDnQ==" condicionesDePago="CONTADO" subTotal="6247.50" TipoCambio="1.00" Moneda="MXN" total="5955.95" metodoDePago="03" LugarExpedicion="PUEBLA, PUEBLA" NumCtaPago="3287" tipoDeComprobante="ingreso">
+	<cfdi:Emisor rfc="BAMM660223B40" nombre="BAEZ MARTINEZ MARTHA ELENA">
+		<cfdi:DomicilioFiscal calle="ZARAGOZA" noExterior="6117" noInterior="A-1" colonia="LEOBARDO COCA" municipio="PUEBLA" estado="PUEBLA" pais="MEXICO" codigoPostal="72450"/>
+		<cfdi:RegimenFiscal Regimen="Personas Físicas con Actividades Empresariales y Profesionales"/>
+	</cfdi:Emisor>
+	<cfdi:Receptor rfc="UAP020906CE5" nombre="UNIVERSIDAD ANAHUAC DE PUEBLA SC">
+		<cfdi:Domicilio calle="ORION NORTE" noExterior="S/N" colonia="LA VISTA COUNTRY CLUB" municipio="SAN ANDRES CHOLULA" estado="PUEBLA" pais="MEXICO" codigoPostal="72810"/>
+	</cfdi:Receptor>
+	<cfdi:Conceptos>
+		<cfdi:Concepto cantidad="1" unidad="NO APLICA" noIdentificacion="I" descripcion="HONORARIOS" valorUnitario="6247.50" importe="6247.50">
+		</cfdi:Concepto>
+	</cfdi:Conceptos>
+	<cfdi:Impuestos totalImpuestosRetenidos="1291.15" totalImpuestosTrasladados="999.60">
+		<cfdi:Retenciones>
+			<cfdi:Retencion impuesto="IVA" importe="666.40"/>
+			<cfdi:Retencion impuesto="ISR" importe="624.75"/>
+		</cfdi:Retenciones>
+		<cfdi:Traslados>
+			<cfdi:Traslado impuesto="IVA" tasa="16.00" importe="999.60"/>
+		</cfdi:Traslados>
+	</cfdi:Impuestos>
+	<cfdi:Complemento><tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/TimbreFiscalDigital/TimbreFiscalDigital.xsd" selloSAT="u/tpMHuJSZJQONmPxENxtihjHJkC4AvtJq2UaZewTzYtGsUy6Mn7BFS1ixTaZY+eISpRQTQPU/hnWUlbLnjlpXsf9phroAeLhodTPdXGd2SpxsYwVt4rH33WkR8W4DSeO05RDZg3osU+p8vFL1oeZVYq2v9F3YbDNh/Bv2HJp8/qDPU9AX5aNWYqfiffRcrACDXggp9D/LyMg4LmlknU2bwXaofVvd81s5xRRyS02jathjwEdHhfnteDQf2OKFuULVvRRcrd1ocWI2vsK6tvTAFbA+IoeeyI4/t46ou4F47zA9VSozXzh2KD9tBYRY6EhILx4JEpQfC1LCBTrFuvbQ==" noCertificadoSAT="00001000000401041203" selloCFD="XonEfe2i8w46uZYCdiT/Shw9VhR3WQAFPvql5wA0Fr6pzTSzkRZDuJg5DLXi9HtHG3xWP7gdcf2bGr4Jq3z/Tlquta3aFeY52yeJXl2nRJWscZkD8GqMNCFDOGMYC8DAppOAKcyzHFegBf2RhGg5miBmC8symw9JRl7UF5EkaUY=" FechaTimbrado="2017-11-27T18:05:53" UUID="7E65A38A-0CA3-DA4C-90A6-ECB8B638CC4E" version="1.0"/></cfdi:Complemento></cfdi:Comprobante>

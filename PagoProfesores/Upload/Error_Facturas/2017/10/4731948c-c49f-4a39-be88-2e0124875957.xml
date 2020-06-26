@@ -1,0 +1,29 @@
+<cfdi:Comprobante xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv33.xsd" LugarExpedicion="75730" MetodoPago="PUE" TipoDeComprobante="I" Total="7293.00" Moneda="MXN" Certificado="MIIE4DCCA8igAwIBAgIUMDAwMDEwMDAwMDAzMDQ3OTQ0NTUwDQYJKoZIhvcNAQEFBQAwggGKMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMR8wHQYJKoZIhvcNAQkBFhBhY29kc0BzYXQuZ29iLm14MSYwJAYDVQQJDB1Bdi4gSGlkYWxnbyA3NywgQ29sLiBHdWVycmVybzEOMAwGA1UEEQwFMDYzMDAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBEaXN0cml0byBGZWRlcmFsMRQwEgYDVQQHDAtDdWF1aHTDqW1vYzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMTUwMwYJKoZIhvcNAQkCDCZSZXNwb25zYWJsZTogQ2xhdWRpYSBDb3ZhcnJ1YmlhcyBPY2hvYTAeFw0xNDA3MzAxODM1MzlaFw0xODA3MzAxODM2MTlaMIHWMSIwIAYDVQQDFBlST0RPTEZPIEdPTlpBTEVaIEFWRU5EQdFPMSIwIAYDVQQpFBlST0RPTEZPIEdPTlpBTEVaIEFWRU5EQdFPMSIwIAYDVQQKFBlST0RPTEZPIEdPTlpBTEVaIEFWRU5EQdFPMQswCQYDVQQGEwJNWDEmMCQGCSqGSIb3DQEJARYXbGNmcm9kb2xmb2dAaG90bWFpbC5jb20xFjAUBgNVBC0TDUdPQVI4NDA0MTRGWTQxGzAZBgNVBAUTEkdPQVI4NDA0MTRIUExOVkQwNzCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAp+1BTg0Q9XEBi31Sk0+L6WkH809b5BY5uNG/ELcsFOxN7yHUoxxkN+wPAUL4zncHTJRI62jHidyMbrrk9w0cxTK3DQ/PYxbHDV9D2L5z0bU6tBTYpXrW6L0GvGW8BIgBeOa6IuK43IY+TsfsrP13oupAfroGNq3cePYrSvJpSAUCAwEAAaNzMHEwDAYDVR0TAQH/BAIwADALBgNVHQ8EBAMCA9gwEQYJYIZIAYb4QgEBBAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMEBggrBgEFBQcDAjAiBgNVHREEGzAZgRdsY2Zyb2RvbGZvZ0Bob3RtYWlsLmNvbTANBgkqhkiG9w0BAQUFAAOCAQEAhtCXLpz+DSp5IoeenF/ZGYrCKK1USjGU2cIeBy6ZZyR8ALwOs20a58yd0ItsNsHb4Q4h7dKy2h6JyStHbTKfUl9m8+htiPesbU8IIZEBnAA1DAoIxqk7PiELuVJojQpMpbcpzApyzbg4kwTaf5GuQOl2PhKLzzFkxeQ5gWbxjxtQJtOeGJL41YCJNJt0YXqpnMZ+3Sf1EQdCRLngbdGvz6gmwve2sqO0YzEpKtWArUAjpcENCigVbecNFHu8Dmano5WjTiISR2Nd0YBsw21DsKOX+TcarQPD6DHBiXnAxGsvfxOybwr98jdGGvr5CWbAG6/rlvWxoa3RmQuBczvlLQ==" SubTotal="7650.00" CondicionesDePago="CONTADO" NoCertificado="00001000000304794455" FormaPago="03" Sello="SsfrLjexDt69SgjQ9IF1t0CKfwDkVQ0gLgQLpOWcXyyuzyH4tH1yvksdncOChLQLMUoGI2trO0njlMtIwPpDODt1+miyM7DRRz3ZQXO9auS+dsF4SJvhr2ixXLI1ZdA83GdG8ZH3tw9uYAioFAdeL1ulkLk0bwMhTZwfs9vYvIk=" Fecha="2017-09-06T22:36:41" Folio="31" Version="3.3" xmlns:cfdi="http://www.sat.gob.mx/cfd/3">
+  <cfdi:Emisor Rfc="GOAR840414FY4" Nombre="RODOLFO GONZALEZ AVENDAÑO" RegimenFiscal="612" />
+  <cfdi:Receptor Rfc="UAP020906CE5" Nombre="UNIVERSIDAD ANÁHUAC DE PUEBLA, S.C." UsoCFDI="G03" />
+  <cfdi:Conceptos>
+    <cfdi:Concepto ClaveProdServ="86121800" Cantidad="1" ClaveUnidad="E48" Unidad="NA" Descripcion="Impartición de clases en la Escuela de Humanidades" ValorUnitario="7650.00" Importe="7650.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="7650.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="1224.00" />
+        </cfdi:Traslados>
+        <cfdi:Retenciones>
+          <cfdi:Retencion Base="7650.00" Impuesto="001" TipoFactor="Tasa" TasaOCuota="0.100000" Importe="765.00" />
+          <cfdi:Retencion Base="7650.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.106667" Importe="816.00" />
+        </cfdi:Retenciones>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+  </cfdi:Conceptos>
+  <cfdi:Impuestos TotalImpuestosRetenidos="1581.00" TotalImpuestosTrasladados="1224.00">
+    <cfdi:Retenciones>
+      <cfdi:Retencion Impuesto="001" Importe="765.00" />
+      <cfdi:Retencion Impuesto="002" Importe="816.00" />
+    </cfdi:Retenciones>
+    <cfdi:Traslados>
+      <cfdi:Traslado Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="1224.00" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento>
+    <tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd" Version="1.1" UUID="BCF6CF01-F9DD-45C8-8596-8DF92AF00751" FechaTimbrado="2017-09-06T22:43:11" RfcProvCertif="SAT970701NN3" SelloCFD="SsfrLjexDt69SgjQ9IF1t0CKfwDkVQ0gLgQLpOWcXyyuzyH4tH1yvksdncOChLQLMUoGI2trO0njlMtIwPpDODt1+miyM7DRRz3ZQXO9auS+dsF4SJvhr2ixXLI1ZdA83GdG8ZH3tw9uYAioFAdeL1ulkLk0bwMhTZwfs9vYvIk=" NoCertificadoSAT="00001000000403258748" SelloSAT="RljVAmJ2S4GUsB57tdajDeb1Ga5rw5gE1TzY9QOksT6CIEpVbftGrh6IWkaq5h0jBeP+VBhB7nGprmOcc0WmrWIIlfAl6pehLGnHJe6VARbokkjd+8zSg//GVYWjvfD2an7fxQhM2U+9uRM2gM58gcHBcKlkxGOWl9MClw121owsAfhq8Aos+gf2M7q14ObUPKtas6Qz5Z4i5mITccljOmD0dQS3frUQhbQH8U30a+XdI+72I5YHzF2s9a2cJ7OZlQP5Pxr9f8+n0zDiQHWlIhsHdvKobxep2VocycEP4txag/nRahw1GGSPJgRtWHHoqjKerEpPKugQDxjWwsh+QA==" />
+  </cfdi:Complemento>
+</cfdi:Comprobante>

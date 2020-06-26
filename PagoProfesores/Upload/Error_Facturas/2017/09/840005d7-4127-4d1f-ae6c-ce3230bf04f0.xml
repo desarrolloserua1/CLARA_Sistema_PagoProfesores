@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" NumCtaPago="NO IDENTIFICADO" LugarExpedicion="68000" tipoDeComprobante="ingreso" metodoDePago="02" total="1660.11" Moneda="MXN" descuento="0.00" subTotal="1741.38" certificado="MIIGBjCCA+6gAwIBAgIUMDAwMDEwMDAwMDA0MDYyNDkyODEwDQYJKoZIhvcNAQELBQAwggGyMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMR8wHQYJKoZIhvcNAQkBFhBhY29kc0BzYXQuZ29iLm14MSYwJAYDVQQJDB1Bdi4gSGlkYWxnbyA3NywgQ29sLiBHdWVycmVybzEOMAwGA1UEEQwFMDYzMDAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBEaXN0cml0byBGZWRlcmFsMRQwEgYDVQQHDAtDdWF1aHTDqW1vYzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMV0wWwYJKoZIhvcNAQkCDE5SZXNwb25zYWJsZTogQWRtaW5pc3RyYWNpw7NuIENlbnRyYWwgZGUgU2VydmljaW9zIFRyaWJ1dGFyaW9zIGFsIENvbnRyaWJ1eWVudGUwHhcNMTcwNTIwMjEwODE0WhcNMjEwNTIwMjEwODE0WjCBpjEeMBwGA1UEAxMVTFVaIFlBTElOQSBTSUxWQSBTT1RPMR4wHAYDVQQpExVMVVogWUFMSU5BIFNJTFZBIFNPVE8xHjAcBgNVBAoTFUxVWiBZQUxJTkEgU0lMVkEgU09UTzEWMBQGA1UELRMNU0lTTDgwMTAxOEZKQTEbMBkGA1UEBRMSU0lTTDgwMTAxOE1PQ0xUWjAxMQ8wDQYDVQQLEwZVTklEQUQwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQCRnKvhdEiXbluT7E28jtj7j7MjF5N2fqzWkj1RN+h0Dulsn12VUmD6dn02yGV/esjpgMOx+BwV0Upz/gRtltP0uON0Eg2fcrPdu6p+uS6lvRkgNLdhw0sA5PNkiEbCjcKxRqbg3klCV4CgMCRJeVgaOtOtWw2Lmc/jiwL+YCH/IgKTfzhMydJuuP29b/sGitFL1Z3RVlxRXJbC9XRgW4aUoXsfK36sbr8FYRCiGI1FbdyJhvNSNLerDaLv2egC7+4BnaSJ6ZEaC3jukjm8sN0ga62/zcaTqavsBTBrL0GKoanzCbBmFXnjNEsIkXIJB0gR2D/XD64stEGkLYXH5qYPAgMBAAGjHTAbMAwGA1UdEwEB/wQCMAAwCwYDVR0PBAQDAgbAMA0GCSqGSIb3DQEBCwUAA4ICAQAUM9832GaFrsuJxGOEMU0iYFyrADe9drfvCIwweaSQRoozacOmqUrW+uM4CCEAbm/YJ2eXxfNMUGDrV0qJyFNAs9nVcqS1jlYrJAKFrwU6kVq4R5N8XFfZVrgG9Z+jX3RORDcy/yK1WtfN3+JCYpNtfTVFnOAywDuqfQr72p86nKhI3sJr6WX5jF/KOJUfPxnsHFECUo9UQLb4W6qj9P7X+qZL8X9OxyrBWhsE47sFeqjxhFaEQvHP+kK7nsT41EBE3qXXVzbUWMkb3J59AvQT9jybGJc79A0Q2JHFKNbD0ajVqJg6tPtqMOpbAiXhqoRQNDuKlMxmKZpMYi9y3RiIDPXA0cjP33qHc8BcCQ4Pte71oIniXkjuv4D1Ehb6510uIzH2FQgIpCW9+f/rXqMfkeVgCezMyhMYykdqDAuE8GAXUl6fYApUmcFME7Dh8L9tDH3ACm3l3sXcjGFmW0dp0MGUlbvSTBIGoL0iX1hj+Qp4CMQtd+qy5Q4I7mOuaLHb1X3R0UDMVSRNz3wyIvzVfyOQJqvYpZaml5psy0u2k6DB19S9atsRwqc5nFAnwAzoWVRf6g2i5McWARrHut8/cdHtNR4CwdbMAVU8SwbuxmxVOSoEwxRIcYUdG77zPFKnqt85LsarAN3nssYoMbtRhHSzICBexFSVeOOPdQWwvg==" noCertificado="00001000000406249281" formaDePago="PAGO EN UNA SOLA EXHIBICION" sello="esSri+NpBcjjUATZpcQoRUQOcXKkDHs+Q+4Z9symXspIUhDP/lxQYa8s7X88Zy1sShp0m3iTbsLOP2PUBM0GCqwPpXvNcLohaT4xNUjBBKWL9vRm/+EjlUK6DNu2rAJS8Xnn7DKH86P3HPKD/RD0jDim5GOI00kTtHJOiWYsflvckuwiUcqDi+dIqYn5rMic4mPX49neYaJsORv1IVQ0SfD+4LwbScTWP8WYqgzNBb/vTlctbozYFHzwVltOkSyiNRzKlg8m91JLyDHSsF/7qk2qYKXYe9dN11xNEvsPu2DmuEcw7l5TiHLqj5vzLU1TIfgkxXv10HFznJUm2pX3YQ==" fecha="2017-08-14T18:07:57" folio="100" serie="AA" version="3.2" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3  http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd">
+    <cfdi:Emisor nombre="LUZ YALINA SILVA SOTO" rfc="SISL801018FJA">
+        <cfdi:RegimenFiscal Regimen="605"/>
+    </cfdi:Emisor>
+    <cfdi:Receptor nombre="TECNOLOGICO NACIONAL DE MEXICO /INSTITUTO TECNOLOGICO DE OAXACA" rfc="TMM140723GFA">
+        <cfdi:Domicilio codigoPostal="06010" pais="MEXICO" estado="CIUDA DE MEXICO" municipio="DELEGACION CUAUHTEMOC" colonia="CENTRO" noInterior="PISO 2" noExterior="No. 79" calle="ARCOS DE BELEN"/>
+    </cfdi:Receptor>
+    <cfdi:Conceptos>
+        <cfdi:Concepto importe="1741.38" valorUnitario="1741.38" descripcion="PAGO DE HONORARIOS CORRESPONDIENTES A HORA TRABAJADAS DURANTE EL PERIODO DEL 11 DE FEBRERO AL 29 DE ABRIL DEL 2017" unidad="NA" cantidad="1"/>
+    </cfdi:Conceptos>
+    <cfdi:Impuestos totalImpuestosTrasladados="278.62" totalImpuestosRetenidos="359.89">
+        <cfdi:Retenciones>
+            <cfdi:Retencion importe="185.75" impuesto="IVA"/>
+            <cfdi:Retencion importe="174.14" impuesto="ISR"/>
+        </cfdi:Retenciones>
+        <cfdi:Traslados>
+            <cfdi:Traslado importe="278.62" tasa="16" impuesto="IVA"/>
+        </cfdi:Traslados>
+    </cfdi:Impuestos>
+    <cfdi:Complemento>
+        <tfd:TimbreFiscalDigital FechaTimbrado="2017-08-14T18:06:48" UUID="18588632-fc1a-497e-b047-8b9e58859dac" noCertificadoSAT="00001000000406144089" selloCFD="esSri+NpBcjjUATZpcQoRUQOcXKkDHs+Q+4Z9symXspIUhDP/lxQYa8s7X88Zy1sShp0m3iTbsLOP2PUBM0GCqwPpXvNcLohaT4xNUjBBKWL9vRm/+EjlUK6DNu2rAJS8Xnn7DKH86P3HPKD/RD0jDim5GOI00kTtHJOiWYsflvckuwiUcqDi+dIqYn5rMic4mPX49neYaJsORv1IVQ0SfD+4LwbScTWP8WYqgzNBb/vTlctbozYFHzwVltOkSyiNRzKlg8m91JLyDHSsF/7qk2qYKXYe9dN11xNEvsPu2DmuEcw7l5TiHLqj5vzLU1TIfgkxXv10HFznJUm2pX3YQ==" selloSAT="Abtps/lshd7buao5PKy5tRFdozqgaAXhaJF4Q7Ec0PtDj77YeIfu9sJFEhDQ7d5t7CQfGgSYRluSfon+mauAHvfDbHF23Ux4x6WCivB37QM/xgxthWBntD2YrHawtx5ClEQpSVV1z8o6PL40abrewVVhckyfvTtQHd70dXlTwcavKxBYyKxs4x5bovwHixGMw0nHEtkrsBaMRtQWMymKrMWS24ut/6hEoFyrA2fxIUPeUb8yjJlD3k3Y/wljIdXV4QBDvTuWkFAxplr1pbQ/4F6TYZJprF0N97RjFX9NcbMLMM62TV8Kocn5bfsKH9PmjkByeQwM9r/9kIvhhOF6Hw==" version="1.0" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/TimbreFiscalDigital/TimbreFiscalDigital.xsd"/>
+    </cfdi:Complemento>
+<cfdi:Addenda>
+<todocfdi>
+<CFDiHonorariosWeb tipoDocumento="Recibo de Honorarios" observaciones = "" monedaPdf = "PESOS" monedaXml = "MXN" /> 
+</todocfdi>
+</cfdi:Addenda></cfdi:Comprobante>

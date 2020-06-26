@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cfdi:Comprobante xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Moneda="MXN" SubTotal="3825.00" Descuento="0.00" Total="3646.50" LugarExpedicion="72160" TipoDeComprobante="I" MetodoPago="PUE" CondicionesDePago="Contado" Serie="F" Folio="59" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv33.xsd" Version="3.3" Fecha="2018-02-26T21:02:44" NoCertificado="00001000000306781491" Certificado="MIIEYDCCA0igAwIBAgIUMDAwMDEwMDAwMDAzMDY3ODE0OTEwDQYJKoZIhvcNAQEFBQAwggGKMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMR8wHQYJKoZIhvcNAQkBFhBhY29kc0BzYXQuZ29iLm14MSYwJAYDVQQJDB1Bdi4gSGlkYWxnbyA3NywgQ29sLiBHdWVycmVybzEOMAwGA1UEEQwFMDYzMDAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBEaXN0cml0byBGZWRlcmFsMRQwEgYDVQQHDAtDdWF1aHTDqW1vYzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMTUwMwYJKoZIhvcNAQkCDCZSZXNwb25zYWJsZTogQ2xhdWRpYSBDb3ZhcnJ1YmlhcyBPY2hvYTAeFw0xNTA0MTUwNDMwNDhaFw0xOTA0MTUwNDMwNDhaMIGsMSAwHgYDVQQDExdBTElDSUEgUklWRVJBIFJPRFJJR1VFWjEgMB4GA1UEKRMXQUxJQ0lBIFJJVkVSQSBST0RSSUdVRVoxIDAeBgNVBAoTF0FMSUNJQSBSSVZFUkEgUk9EUklHVUVaMRYwFAYDVQQtEw1SSVJBNTIwOTMwUUs0MRswGQYDVQQFExJSSVJBNTIwOTMwTURGVkRMMDUxDzANBgNVBAsTBlVuaWRhZDCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAvHNO+RFbK9uUxRU25uzb6CAOM53KpzaqbI1IoOAHIS3OejOHMjMKT+2mS73TH4iEeR1VWeDiOfMpjWoo23nvUVglhfp2hoLlHuSiW0ouzJlQKRwBv+iPTaRgmz5clBeddgsr7r5p2LTB6NjIUzYHsAf2faf9nsNb7mdcoBggwxMCAwEAAaMdMBswDAYDVR0TAQH/BAIwADALBgNVHQ8EBAMCBsAwDQYJKoZIhvcNAQEFBQADggEBANBMpM7aW+7O/ELEHiJ4E0dzqgrWOwpgFOkBGqI6F1bMB2wPpSOQkWtVgNvMYR/aa6n3xt8skHlntHCyzk6wWbxkOXzWtBspPKYaZdm4Q+BWSIBXSnFknJb7dIP6GOCax7HHLvY0Qc0SDG1fmA+9hHQuLxKohCEA0T1ml4iVYdsmw69Kkt/TLdGh9I4+OXvv9v5uBUe4v3GuSWp5iVd1Q7jFApZWDDZ2xkcTu65ui2ARfupPSx0jqovP1OiMm6a12RkJuucmZI8LejHjdyhVOGjH8zwu8OCAD99qEIe+jKspOo57M2mEWvt2ktmDodL3H63N7sXEQ/7F6kfDCJcU4yY=" Sello="cncZn+zxgMNm3hefEhbYBRMQwygjTuxguthgffZmiFBOmxGMZu4lIGn/wUcHdyVyN3lquv470RLcU9KPGRx6WqdzEYAbTbzAmI1OiZfWqlWojoBTItk4GxsmcNjx6ZKVzogToTPqF49Dtb68Ixf7zt8Pir89JrZ5N8f1+fFzaRk=" FormaPago="99" xmlns:cfdi="http://www.sat.gob.mx/cfd/3">
+  <cfdi:Emisor Rfc="RIRA520930QK4" Nombre="ALICIA RIVERA RODRIGUEZ" RegimenFiscal="612" />
+  <cfdi:Receptor Rfc="UAP020906CE5" Nombre="UNIVERSIDAD ANÁHUAC DE PUEBLA, S.C." UsoCFDI="P01" />
+  <cfdi:Conceptos>
+    <cfdi:Concepto ValorUnitario="3825.000000" Descripcion="Impartición de clases en la Licenciatura de Lenguas y Turismo en el periodo primavera 2018." Descuento="0.000000" Importe="3825.000000" Unidad="E48" NoIdentificacion="86121700" ClaveProdServ="86121700" ClaveUnidad="E48" Cantidad="1.000000">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="3825.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="612.00" />
+        </cfdi:Traslados>
+        <cfdi:Retenciones>
+          <cfdi:Retencion Base="3825.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.106667" Importe="408.00" />
+          <cfdi:Retencion Base="3825.00" Impuesto="001" TipoFactor="Tasa" TasaOCuota="0.100000" Importe="382.50" />
+        </cfdi:Retenciones>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+  </cfdi:Conceptos>
+  <cfdi:Impuestos TotalImpuestosTrasladados="612.00" TotalImpuestosRetenidos="790.50">
+    <cfdi:Retenciones>
+      <cfdi:Retencion Impuesto="002" Importe="408.00" />
+      <cfdi:Retencion Impuesto="001" Importe="382.50" />
+    </cfdi:Retenciones>
+    <cfdi:Traslados>
+      <cfdi:Traslado Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="612.00" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento>
+    <tfd:TimbreFiscalDigital Version="1.1" RfcProvCertif="FLI081010EK2" UUID="AFAD2335-66D3-46E1-9C6C-E823025C0E92" FechaTimbrado="2018-02-26T21:02:49" SelloCFD="cncZn+zxgMNm3hefEhbYBRMQwygjTuxguthgffZmiFBOmxGMZu4lIGn/wUcHdyVyN3lquv470RLcU9KPGRx6WqdzEYAbTbzAmI1OiZfWqlWojoBTItk4GxsmcNjx6ZKVzogToTPqF49Dtb68Ixf7zt8Pir89JrZ5N8f1+fFzaRk=" NoCertificadoSAT="00001000000403498740" SelloSAT="bJyCJXPjwZ53OnO9VYLOck8Ji849B8iKYBy4nJGNI0ODC+IklfjlXeb7f9yAhbxd1d90+hNsqzJITpdN0IMBm4r6+raJENZQGCvlbH8rFTJX5CM/Ev7pO3uatrEzz9fO/WYsmAzEiGVtjbpmY/M93DrAqkyL2zUqTNozurKPjc/rHOMIJND/zqlbKXVLuqvf5DWmXyoWcn80sFgYOcUAsPIckc7xGufnrSwVVGxdbo+cROuQyJZpWSQH15moA3gIGX/Ibh+4RArpWUxRUp9eQEvOQITXwviOEUs5swVXJ4CNQ1cHvsVecuuuhjzsCBN8kp7tnnYvvym9Qwo14ULqlw==" xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd" />
+  </cfdi:Complemento>
+  <cfdi:Addenda>
+    <PSV:Factura version="1.0" division="INFODE" tipoDocumentoVWM="PSV" tipoDocumentoFiscal="FA" xmlns:PSV="http://www.vwnovedades.com/volkswagen/kanseilab/shcp/2009/Addenda/PSV">
+      <PSV:Moneda codigoImpuesto="1A" tipoMoneda="MXP" tipoCambio="1.0000" />
+      <PSV:Proveedor nombre="" correoContacto="" codigo="" />
+      <PSV:Referencias unidadNegocios="" referenciaProveedor="59" />
+      <PSV:Solicitante nombre="" correo="" />
+      <PSV:Partes>
+        <PSV:Parte posicion="1" descripcionMaterial="Impartición de clases en la Licenciatura de Lenguas y Turismo en el periodo primavera 2018." cantidadMaterial="1.0000" unidadMedida="E48" precioUnitario="3825.00" montoLinea="3825.0000" codigoImpuesto="1A">
+          <PSV:Referencias ordenCompra="" />
+          <PSV:Nota>Impartición de clases en la Licenciatura de Lenguas y Turismo en el periodo primavera 2018.</PSV:Nota>
+        </PSV:Parte>
+      </PSV:Partes>
+    </PSV:Factura>
+  </cfdi:Addenda>
+</cfdi:Comprobante>
