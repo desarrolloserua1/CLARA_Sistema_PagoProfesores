@@ -1,0 +1,21 @@
+<cfdi:Comprobante xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv33.xsd" LugarExpedicion="72810" MetodoPago="PUE" TipoDeComprobante="I" Total="3105.90" Moneda="MXN" Certificado="MIIExzCCA6+gAwIBAgIUMDAwMDEwMDAwMDAzMDU0NzI1MDgwDQYJKoZIhvcNAQEFBQAwggGKMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMR8wHQYJKoZIhvcNAQkBFhBhY29kc0BzYXQuZ29iLm14MSYwJAYDVQQJDB1Bdi4gSGlkYWxnbyA3NywgQ29sLiBHdWVycmVybzEOMAwGA1UEEQwFMDYzMDAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBEaXN0cml0byBGZWRlcmFsMRQwEgYDVQQHDAtDdWF1aHTDqW1vYzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMTUwMwYJKoZIhvcNAQkCDCZSZXNwb25zYWJsZTogQ2xhdWRpYSBDb3ZhcnJ1YmlhcyBPY2hvYTAeFw0xNDExMTAxNzU4MjlaFw0xODExMTAxNzU4MjlaMIIBEjEwMC4GA1UEAxMnUFJPQ0FOVE8gRU5UUkVURU5JTUlFTlRPIElOVEVMSUdFTlRFIFNDMTAwLgYDVQQpEydQUk9DQU5UTyBFTlRSRVRFTklNSUVOVE8gSU5URUxJR0VOVEUgU0MxMDAuBgNVBAoTJ1BST0NBTlRPIEVOVFJFVEVOSU1JRU5UTyBJTlRFTElHRU5URSBTQzElMCMGA1UELRMcUEVJMTQxMTA2NDk4IC8gUEVSQjY5MDkwNDhQMzEeMBwGA1UEBRMVIC8gUEVSQjY5MDkwNE1QTFJNUjA5MTMwMQYDVQQLEypQcm9jYW50byBFbnRyZXRlbmltaWVudG8gSW50ZWxpZ2VudGUsIFMuQy4wgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAKJs4iaBw+7KjnZzLrBQQlkTfrBTYseMulVXUs3g+5kMfGyi+qCWIqNF+3lS6zpaXOyEr/bRQd657hluTVb9Vo/OOS1aLWP9gVXadrf0WBFH+Bcg1LIiBknpd5/h+dMl6uaOR7/ZRAuJUVe++6dOM5AIGaFKzadhwuT9C8N/7cMVAgMBAAGjHTAbMAwGA1UdEwEB/wQCMAAwCwYDVR0PBAQDAgbAMA0GCSqGSIb3DQEBBQUAA4IBAQBaRbS+5N7xrqJ6y2MFWW6Ma7GWPNzG8OI+p8x9n8olwpPFDfxZ2RMFfaPeMhbnviaopSPmvCLWdIdK/T2o1LYhq13CQt2P1mZ8wtaUvUigRCqAZyE0yVICJ78yciw19YeQ5TLoCkaPVF5V0h5eXpgFJqnjzb+ALZBj5rAdhJtGuq+1OhaFt/ntW/g1MRBXRLf95D0JF2hrjXMCPSrcqJGJ5L/ardPsSQtPzZ3NpCqF4QgKoPhajlveaTidBk94UFE/jiQLoWEhGSUGyKTT+LQwzj1hSXzpEy2DezoAXgFyGDJdhART64wrEE1ta/b9HKrPT8bfurJLgbnOUWwj1UMQ" SubTotal="2677.50" CondicionesDePago="UNA SOLA EXHIBICIÓN" NoCertificado="00001000000305472508" FormaPago="02" Sello="mTaQW1vbOUGy380CWUPCZCaEVBuyzL22qRiu18mVzYUhhKGa5xoiakustrsjZXEFW0owCm2sPqXCOvYNIgrS8j6Bf5wvJn5nHYU4kOHbk96tHxYB0BL0Hs2dVLWLQ84L5Iq7pDjzMYJW2UTBEZpc78Zw3UR1AahH7YU0pFSEdfQ=" Fecha="2017-09-29T13:10:57" Folio="031" Version="3.3" xmlns:cfdi="http://www.sat.gob.mx/cfd/3">
+  <cfdi:Emisor Rfc="PEI141106498" Nombre="PROCANTO ENTRETENIMIENTO INTELIGENTE SC" RegimenFiscal="601" />
+  <cfdi:Receptor Rfc="UAP020906CE5" Nombre="UNIVERSIDAD ANÁHUAC DE PUEBLA, S.C" UsoCFDI="P01" />
+  <cfdi:Conceptos>
+    <cfdi:Concepto ClaveProdServ="86121700" NoIdentificacion="N/A" Cantidad="1" ClaveUnidad="E48" Descripcion="IMPARTICIÓN DE CLASES EN LA LICENCIATURA DE INDUSTRIAS DE ENTRETENIMIENTO EN EL PERIODO OTOÑO 2017" ValorUnitario="2677.50" Importe="2677.50">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="2677.50" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="428.40" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+  </cfdi:Conceptos>
+  <cfdi:Impuestos TotalImpuestosTrasladados="428.40">
+    <cfdi:Traslados>
+      <cfdi:Traslado Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="428.40" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento>
+    <tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd" Version="1.1" UUID="49832886-0C65-4DC2-BFE9-8A2CFD244B6B" FechaTimbrado="2017-09-29T13:17:25" RfcProvCertif="SAT970701NN3" SelloCFD="mTaQW1vbOUGy380CWUPCZCaEVBuyzL22qRiu18mVzYUhhKGa5xoiakustrsjZXEFW0owCm2sPqXCOvYNIgrS8j6Bf5wvJn5nHYU4kOHbk96tHxYB0BL0Hs2dVLWLQ84L5Iq7pDjzMYJW2UTBEZpc78Zw3UR1AahH7YU0pFSEdfQ=" NoCertificadoSAT="00001000000403258748" SelloSAT="Xc33OxoiDCRPHx7jYfl8JfkXGvRsnjVb3nHehIeDLRaDlHAEW1NzvLokmEB4bJmfe0KPbQ/J/JOvNTY5AnL7+vjRdvTtvbyBC4jbuNloXtZAqgeE84wRNSCwWu/e/AY/pW3mS1Hna9wMiADIs+OELgkguqbHO3Zf3OsbHuUVact9wIeI8+e0TAAQdgdLwHAT+378/2dAq/i0ntYDxjB8xDU2crkx0Yhc+zMeftKB19ZKE+Y+GaAvAxFpqDbh+4yGb8xAQ8PRYxAOttxeaGMIFm4yDsSVLP/xdsJcUn0FkCTqMuAxaUV3YmfxlSzsMailiKWxfAjJ8lKRlxRdCHta0w==" />
+  </cfdi:Complemento>
+</cfdi:Comprobante>

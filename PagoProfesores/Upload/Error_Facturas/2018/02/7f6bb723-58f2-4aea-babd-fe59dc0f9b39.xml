@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv33.xsd" Version="3.3" Folio="6" Fecha="2018-02-01T12:43:19" Sello="J8mQoWsblifFk/qQPbrKVesNc/cUY1XufKR9sEljOrlvV4Ipfg5rHsXnIDZcT7CqRqGormX9HWfjqRK8EICofA7FDn6D+DL+hEGD1fEktmUFBkFaX356qc5TovjI1tkdeDAZDp8ayyRx/ZSZOD1VDigOssXQXw8sIybhLkO4gXg=" FormaPago="99" NoCertificado="00001000000303810296" Certificado="MIIEWTCCA0GgAwIBAgIUMDAwMDEwMDAwMDAzMDM4MTAyOTYwDQYJKoZIhvcNAQEFBQAwggGKMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMR8wHQYJKoZIhvcNAQkBFhBhY29kc0BzYXQuZ29iLm14MSYwJAYDVQQJDB1Bdi4gSGlkYWxnbyA3NywgQ29sLiBHdWVycmVybzEOMAwGA1UEEQwFMDYzMDAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBEaXN0cml0byBGZWRlcmFsMRQwEgYDVQQHDAtDdWF1aHTDqW1vYzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMTUwMwYJKoZIhvcNAQkCDCZSZXNwb25zYWJsZTogQ2xhdWRpYSBDb3ZhcnJ1YmlhcyBPY2hvYTAeFw0xNDA0MTUxNjUwMzNaFw0xODA0MTUxNjUwMzNaMIGlMRwwGgYDVQQDFBNBUlRVUk8gTk9ST9FBIEVaRVRBMRwwGgYDVQQpFBNBUlRVUk8gTk9ST9FBIEVaRVRBMRwwGgYDVQQKFBNBUlRVUk8gTk9ST9FBIEVaRVRBMRYwFAYDVQQtEw1OT0VBODYxMjExMVZBMRswGQYDVQQFExJOT0VBODYxMjExSFFUUlpSMDExFDASBgNVBAsTC0ZBQ1RVUkFDSU9OMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCGjaTVCrefOiHUf0Zn1LCXe0LtTWo0WTja0cermV3yO26UwuzjuPjbUpbxpamXAKuaOKBExlS5OzZhLeH+M5idygyL8KVNCB9AlJaE3Tua0qdnQHGxKD63Dsj2Ce/G8aBLYnY7brKy1oCiQFibeN5q7zIz9iP0LEz41DSPjqldoQIDAQABox0wGzAMBgNVHRMBAf8EAjAAMAsGA1UdDwQEAwIGwDANBgkqhkiG9w0BAQUFAAOCAQEATGTuzzkAoU9HEyXLOtdd/mUl1i8FRaKSKcTQyxMFaXxcmIB2jBHkuAaeEDeNIqCKGqzuKaDHNjd/2/vykcOpwmicIadWIQUrE7MXuJaMVfAJVK2jHc0SCBDVO9HX8dO0Xw6iF//KsIq6zGOvvnAC7jL3q7PFnTHnsTd9zydsuMHNiHw6dwByb0NHK88w/vY2cEVAfmqOYDWqLmZbQi4GlyloZbEIyECYrXrpmRuuYKNyqUJ1qxMtUfvkrN1tN2fUyzordNSK/W7AhaWc6Qo9Y8ATTKXqiSk7iajVnCyHjt1194uvyObVV5wGUX8uKIPgdwpQiBzwN0Hcx1OurOJByA==" SubTotal="3960.00" Moneda="MXN" Total="3775.20" TipoDeComprobante="I" MetodoPago="PPD" LugarExpedicion="76269" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<cfdi:Emisor Rfc="NOEA8612111VA" Nombre="NOROÑA EZETA ARTURO" RegimenFiscal="612"/>
+	<cfdi:Receptor Rfc="IES050607RD9" Nombre="Investigaciones y Estudios Superiores de Querétaro, S.C" UsoCFDI="G03"/>
+	<cfdi:Conceptos>
+		<cfdi:Concepto ClaveProdServ="86141500" NoIdentificacion="2" Cantidad="1" ClaveUnidad="E48" Unidad="SERVCIO" Descripcion="Honorarios profesionales, por impartir la materia de Ética para el Ingeniero" ValorUnitario="3960.00" Importe="3960.00">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="3960.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="633.60"/>
+				</cfdi:Traslados>
+				<cfdi:Retenciones>
+					<cfdi:Retencion Base="3960.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.106666" Importe="422.39736"></cfdi:Retencion>
+					<cfdi:Retencion Base="3960.00" Impuesto="001" TipoFactor="Tasa" TasaOCuota="0.100000" Importe="396.00"></cfdi:Retencion>
+				</cfdi:Retenciones>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+	</cfdi:Conceptos>
+	<cfdi:Impuestos TotalImpuestosRetenidos="818.40" TotalImpuestosTrasladados="633.60">
+		<cfdi:Retenciones>
+			<cfdi:Retencion Impuesto="001" Importe="396.00"></cfdi:Retencion>
+			<cfdi:Retencion Impuesto="002" Importe="422.40"></cfdi:Retencion>
+		</cfdi:Retenciones>
+		<cfdi:Traslados>
+			<cfdi:Traslado Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="633.60"/>
+		</cfdi:Traslados>
+	</cfdi:Impuestos>
+	<cfdi:Complemento><tfd:TimbreFiscalDigital RfcProvCertif="TSP080724QW6" Version="1.1" UUID="BD16A6D6-D8DD-4B9D-984E-5ADE09AFCB8D" FechaTimbrado="2018-02-01T12:44:07" SelloCFD="J8mQoWsblifFk/qQPbrKVesNc/cUY1XufKR9sEljOrlvV4Ipfg5rHsXnIDZcT7CqRqGormX9HWfjqRK8EICofA7FDn6D+DL+hEGD1fEktmUFBkFaX356qc5TovjI1tkdeDAZDp8ayyRx/ZSZOD1VDigOssXQXw8sIybhLkO4gXg=" NoCertificadoSAT="00001000000407612027" SelloSAT="kXtqdd6qE+U/ds6eBPdXwiMbS1aQfRvRIf34OlmPKvaG3byIk/nQCHzW2ZUxZ6ZosylkNv9UJE9m+IYOKl1ujokmMu74T0Tom9WCWoXvazTvY1QI55p9535Lnf1N84xP0YzYFQuZ9h48R5PaWA/iqm1iIPSk7layNxrhQhGXHnbpN4PrgmD9k3eknRhisvSqut71/0v72kbvAg35gF1Wl1KFroqFidYhOFA9E+HXS2Dpy6Uwlgn4kLtCilmf9rbFc6R5pJtkZc9yQK5XqsGVQVnuRrSti3EG7HEKGEnfLakkYXrAfXTRBF6BEXbWSw+raock6v3wtwANGWYidRANwg==" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/timbrefiscaldigital/TimbreFiscalDigitalv11.xsd" xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/></cfdi:Complemento></cfdi:Comprobante>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<cfdi:Comprobante xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv33.xsd" Version="3.3" Fecha="2018-02-05T18:00:19" TipoDeComprobante="I" Sello="DqCnLbASlv8ZY+QJhjbMpapsT86gI+Al6Izn/osPz6kW/R5abaxIFkDALPwcdhjWqmSH2x2a1qVC5dIXmwbEYAUdeWZwfjovqZq1ZBc424uy9FhTqldZz5PG6mWnG9NqnML10enevhswFTy/Lj6+u7HGn3vmw+sIouJR2eM7jLaMA51dHzLor0yEEpFZ2Ogf1ZXobgMSrE1Ebm5cYpatJhJLX0C99VNKCNeagN0xPJ1ZNshTFWOb5rwXNEMGPHkGqIdJrY4KXQDU5aZeV3lHYpa/UBmCysgMJG4PIhLD1xD/FxmY5wRYSyezpzMTLAodSL1nxEhRTUn3m6B2PATtvQ==" Certificado="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" NoCertificado="00001000000408039178" SubTotal="3465.00" Total="3303.30" Moneda="MXN" LugarExpedicion="76146" FormaPago="03" MetodoPago="PUE" Serie="HONORARIOS" Folio="2">
+  <cfdi:Emisor Rfc="WICG7210207F5" Nombre="Gisela Wilhelm Contreras" RegimenFiscal="612"/>
+  <cfdi:Receptor Rfc="IES050607RD9" UsoCFDI="G03" Nombre="INVESTIGACIONES Y ESTUDIOS SUPERIORES DE QUERETARO S.C."/>
+  <cfdi:Conceptos>
+    <cfdi:Concepto ClaveProdServ="86121700" Cantidad="1" ClaveUnidad="E48" Descripcion="Honorarios profesionales por impartir la materia Historia de las Relaciones Internacionales II" ValorUnitario="3465" Importe="3465.000000">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="3465.000000" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="554.400000"/>
+          </cfdi:Traslados>
+        <cfdi:Retenciones>
+          <cfdi:Retencion Base="3465.000000" Impuesto="001" TipoFactor="Tasa" TasaOCuota="0.100000" Importe="346.500000"/>
+          <cfdi:Retencion Base="2310" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="369.600000"/>
+          </cfdi:Retenciones>
+        </cfdi:Impuestos>
+      </cfdi:Concepto>
+    </cfdi:Conceptos>
+  <cfdi:Impuestos TotalImpuestosRetenidos="716.10" TotalImpuestosTrasladados="554.40">
+    <cfdi:Retenciones>
+      <cfdi:Retencion Impuesto="001" Importe="346.500000"/>
+      <cfdi:Retencion Impuesto="002" Importe="369.600000"/>
+      </cfdi:Retenciones>
+    <cfdi:Traslados>
+      <cfdi:Traslado Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="554.400000"/>
+      </cfdi:Traslados>
+    </cfdi:Impuestos>
+  <cfdi:Complemento>
+        <tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd" Version="1.1" UUID="037cab5c-1f83-4693-898f-2f3c8687ce17" RfcProvCertif="DIA031002LZ2" FechaTimbrado="2018-02-05T18:00:20" SelloCFD="DqCnLbASlv8ZY+QJhjbMpapsT86gI+Al6Izn/osPz6kW/R5abaxIFkDALPwcdhjWqmSH2x2a1qVC5dIXmwbEYAUdeWZwfjovqZq1ZBc424uy9FhTqldZz5PG6mWnG9NqnML10enevhswFTy/Lj6+u7HGn3vmw+sIouJR2eM7jLaMA51dHzLor0yEEpFZ2Ogf1ZXobgMSrE1Ebm5cYpatJhJLX0C99VNKCNeagN0xPJ1ZNshTFWOb5rwXNEMGPHkGqIdJrY4KXQDU5aZeV3lHYpa/UBmCysgMJG4PIhLD1xD/FxmY5wRYSyezpzMTLAodSL1nxEhRTUn3m6B2PATtvQ==" NoCertificadoSAT="00001000000404614920" SelloSAT="oDmLij3Nf5Svedv75nOE6kd9BaRCLDU+qKO3doVLZhfoUNVf+Pi9OwmsNgZLJ1nbah5cezPp3g0n+u4av0gV7/C6IFuF7kUX24vuERBe9AQAdptEOfPNF/D38QLVmmsLoi9nOral4/SYvGBIkJ6xoLCEeFTuhk+1FV0SOUbUbFekwTSsEucSUL1NdNn6ggoGK4yfREXgWF6D6sq6Mc/QDEhC8I4DTcAPDRblDFoK6LqpNwhMZ4VpHT1PaPmCT7QxbN/T6iHWrvTJLqJF80gb8Aecwn0beDObzMZOtVAX4tfCrPOZRO8MXmBbeh3F3bC+tPsNykPst2rITm9sh0J4ng=="/>
+    </cfdi:Complemento><cfdi:Addenda>
+    <dvz:diverza xmlns:tdCFDI="http://www.sat.gob.mx/sitio_internet/cfd/tipoDatos/tdCFDI" xmlns:dvz="http://www.diverza.com/ns/addenda/diverza/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.diverza.com/ns/addenda/diverza/1 http://www.diverza.com/schema/xsd/Addenda_Diverza_v1.1.xsd" version="1.1">
+      <dvz:generales tipoDocumento="Factura" fechaTipoCambio="2018-01-24"/>
+      <dvz:clavesDescripcion c_FormaPago="Transferencia electrónica de fondos" c_Moneda="Peso Mexicano" c_MetodoPago="Pago en una sola exhibición" c_LugarExpedicion="76146" c_RegimenFiscal="Personas Físicas con Actividades Empresariales y Profesionales" c_UsoCFDI="Gastos en general" c_TipoDeComprobante="I"/>
+      <dvz:emisor>
+        <dvz:datosContactoE emailContacto="giwibla@gmx.net"/>
+        <dvz:domicilioFiscalE calle="San Agustin " numero="Int  Ext 129" colonia="El Campanario" municipio="Querétaro" estado="Querétaro" pais="México" codigoPostal="76146"/>
+        </dvz:emisor>
+      <dvz:receptor/>
+      <dvz:conceptos numeroConceptos="1">
+        <dvz:concepto indicador="1"/>
+        </dvz:conceptos>
+      </dvz:diverza>
+    </cfdi:Addenda>
+</cfdi:Comprobante>

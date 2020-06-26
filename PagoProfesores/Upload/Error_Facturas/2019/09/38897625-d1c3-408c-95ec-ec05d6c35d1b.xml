@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd http://www.sat.gob.mx/nomina12 http://www.sat.gob.mx/sitio_internet/cfd/nomina/nomina12.xsd"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.2" fecha="2017-06-15T13:30:09" sello="o9N7WAxuYXJmWkK/DJv1YKJ9ia9ij4euHWWekqn1RP0MZ9cerdzy37gkpsxVwOIIa/6KJgnyeuB1r/F3vRFW8zv8XQPkp4MqwgOy8RDfE5dH7HJQG9Uns7zi/5Z+CigifUdvV144YQ08QshV2g3X37N4Q+jhJaflwah6Jz/fCTcIl++2bZjbDYo5zkpVJ7b2+eU2mlYYQWQDIb4D9Gbr0f7jpEknsYkT8+3rCP1lCtipy9ER8zore7NItvBa6xpIH937wGUCPWC1leNVCc+w5Zf5gxCtEfK8EEBrgzlbCA0LMiohjwBv5xWAqLXNHk9X+GYATsI8piCpg9cxxF/0xw==" formaDePago="En una sola exhibición" noCertificado="00001000000403395187" certificado="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" subTotal="13000.26" descuento="3313.52" TipoCambio="1" Moneda="MXN" total="9686.74" metodoDePago="NA" tipoDeComprobante="egreso" LugarExpedicion="53950"
+    xmlns:nomina12="http://www.sat.gob.mx/nomina12"
+    xmlns:cfdi="http://www.sat.gob.mx/cfd/3">
+    <cfdi:Emisor nombre="Asesoria Educativa, S.C." rfc="AED870708T51">
+        <cfdi:RegimenFiscal Regimen="601" />
+    </cfdi:Emisor>
+    <cfdi:Receptor nombre="Edgar Alejandro Trejo Sánchez" rfc="TESE8012173W5" />
+    <cfdi:Conceptos>
+        <cfdi:Concepto cantidad="1" unidad="ACT" descripcion="Pago de nómina" valorUnitario="13000.26" importe="2227.5" />
+    </cfdi:Conceptos>
+    <cfdi:Impuestos />
+    <cfdi:Complemento>
+        <nomina12:Nomina Version="1.2" TipoNomina="O" FechaPago="2017-06-14" FechaInicialPago="2017-06-01" FechaFinalPago="2017-06-15" NumDiasPagados="15.200" TotalPercepciones="13000.26" TotalDeducciones="3313.52">
+            <nomina12:Emisor RegistroPatronal="C4143006102" />
+            <nomina12:Receptor Curp="TESE801217HDFRND01" NumSeguridadSocial="68978034996" FechaInicioRelLaboral="2014-05-16" Antigüedad="P161W" TipoContrato="01" Sindicalizado="No" TipoJornada="99" TipoRegimen="02" NumEmpleado="32157604" RiesgoPuesto="1" PeriodicidadPago="04" Banco="044" CuentaBancaria="00100990899" SalarioBaseCotApor="956.81" SalarioDiarioIntegrado="956.81" ClaveEntFed="MEX" />
+            <nomina12:Percepciones TotalSueldos="13000.26" TotalGravado="13000.26" TotalExento="0.00">
+                <nomina12:Percepcion TipoPercepcion="001" Clave="SALABASE" Concepto="Sueldo" ImporteExento="0.00" ImporteGravado="13000.26" />
+            </nomina12:Percepciones>
+            <nomina12:Deducciones TotalOtrasDeducciones="1034.74" TotalImpuestosRetenidos="2278.78">
+                <nomina12:Deduccion TipoDeduccion="004" Clave="DEDVALES" Concepto="Vales de Despensa" Importe="0.05" />
+                <nomina12:Deduccion TipoDeduccion="004" Clave="FOAHOEMP" Concepto="Fondo Ahorro Empleado" Importe="650.01" />
+                <nomina12:Deduccion TipoDeduccion="002" Clave="IMPURETE" Concepto="Impuesto Retenido" Importe="2278.78" />
+                <nomina12:Deduccion TipoDeduccion="001" Clave="RCI" Concepto="Retención Cuota IMSS" Importe="384.68" />
+            </nomina12:Deducciones>
+        </nomina12:Nomina>
+        <tfd:TimbreFiscalDigital
+            xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/TimbreFiscalDigital/TimbreFiscalDigital.xsd" version="1.0" UUID="681AB808-93B4-42E0-A026-3375C5BFA203" FechaTimbrado="2017-06-15T14:00:20" selloCFD="o9N7WAxuYXJmWkK/DJv1YKJ9ia9ij4euHWWekqn1RP0MZ9cerdzy37gkpsxVwOIIa/6KJgnyeuB1r/F3vRFW8zv8XQPkp4MqwgOy8RDfE5dH7HJQG9Uns7zi/5Z+CigifUdvV144YQ08QshV2g3X37N4Q+jhJaflwah6Jz/fCTcIl++2bZjbDYo5zkpVJ7b2+eU2mlYYQWQDIb4D9Gbr0f7jpEknsYkT8+3rCP1lCtipy9ER8zore7NItvBa6xpIH937wGUCPWC1leNVCc+w5Zf5gxCtEfK8EEBrgzlbCA0LMiohjwBv5xWAqLXNHk9X+GYATsI8piCpg9cxxF/0xw==" noCertificadoSAT="00001000000406258094" selloSAT="jhN2nmzQkx5JAwIhCUF9Y9Jy9ZTf7B28xorqKbsrEoiB4yURZlkD7LXYh4GJye2Eq4az1bXjGVob3ppCTK3MJUhOsExe5OgVWw/n+B+TFsZOZm4qFSvXnKuIKV70T7CRGwLPrrht8q+8WfP8VkQKdRe7tTQ1COgH8wEHTG8B7LBIpxYDd9pwI9XTxxVgBmeyOxYXekxWtiLXVxm63sOKEoysROgVATWASn8Qsyns5HyHHdRIdJPaytdcQpDISBgZa6vPfNvM5xUmMc4tGK2rhB/tlLg2MRDcnQZCuEUExynQdFrTM6QkCRss64nUjnWrcIRHgaTohAa0Gq7qzS/SCQ==" />
+        </cfdi:Complemento>
+    </cfdi:Comprobante>
