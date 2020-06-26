@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cfdi:Comprobante xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv33.xsd" Version="3.3" Serie="2018" Folio="6" Fecha="2018-02-01T14:03:59" Sello="ZYEKRUq/kyL187bH8NvUl4jSvEU7/mVCP1VNSVoRnqmoRXEkxEUyIlEVsPaRdjEcLcRP41ODFV9wzlHzgjCmQfS4DQyEt1NUpr6c1fhmvSUOJbNSiNLqm3b5b0PWvICQ+fgSrBLNk5Isjbq3LuO8H0D1w3u3mWZ44oYJlFtBMu4=" FormaPago="03" NoCertificado="00001000000303335078" Certificado="MIIEYzCCA0ugAwIBAgIUMDAwMDEwMDAwMDAzMDMzMzUwNzgwDQYJKoZIhvcNAQEFBQAwggGKMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMR8wHQYJKoZIhvcNAQkBFhBhY29kc0BzYXQuZ29iLm14MSYwJAYDVQQJDB1Bdi4gSGlkYWxnbyA3NywgQ29sLiBHdWVycmVybzEOMAwGA1UEEQwFMDYzMDAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBEaXN0cml0byBGZWRlcmFsMRQwEgYDVQQHDAtDdWF1aHTDqW1vYzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMTUwMwYJKoZIhvcNAQkCDCZSZXNwb25zYWJsZTogQ2xhdWRpYSBDb3ZhcnJ1YmlhcyBPY2hvYTAeFw0xNDAzMTQxNjI4MTNaFw0xODAzMTQxNjI4MTNaMIGvMSEwHwYDVQQDExhNQVVSSUNJTyBNQVJUSU5FWiBBTEFOSVMxITAfBgNVBCkTGE1BVVJJQ0lPIE1BUlRJTkVaIEFMQU5JUzEhMB8GA1UEChMYTUFVUklDSU8gTUFSVElORVogQUxBTklTMRYwFAYDVQQtEw1NQUFNNzgwNzE2RE02MRswGQYDVQQFExJNQUFNNzgwNzE2SFFUUkxSMDgxDzANBgNVBAsTBnVuaWRhZDCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAkjhvrAH696ivoQGl3JxKZu1OEC3mGoemYomzWZ5fXMktSt/UfLVY5P9CLEIYfg6ZulqKyVo7W5jLu4TUk53oXSthDSDYQhey6s36XGWS9g1xBXCdqAq+6sT0GM89L4W3jAbaeBuFs07VRu625PEoQmgG+UeKSEDM8TobMQaXztcCAwEAAaMdMBswDAYDVR0TAQH/BAIwADALBgNVHQ8EBAMCBsAwDQYJKoZIhvcNAQEFBQADggEBABKJJQOTf8tZ8oJ4f4qIbDEaMkm4t6BpAJAKLxdMra9oThMofzGoqw8DAWOfZXZwGvV7kGbh2OoSVyDH5QOcgcS/xW1g9hKaiIPZAABC7xwWeLJ0YciJTiBR0rkHPvyR67++lJwakwwGACue2mBIhbW+FIGSYiFxaSWA6sho5ABvBz1EUB6VPutOZAhXArtVUbc9nCZpcDEuXNFZGl96gminF8Wegu6kqm34XQx00s76rmiePK0dwU3SP62atqgrVxbVmMmZFiCZqampCBb75JTwXkd68kRnOw1JgbbhYlqBgSj8ZMIz2IBik/ubM2yFzMG9lWd5MlXkgGl3rZGm52g=" CondicionesDePago="contado" SubTotal="11756.25" Moneda="MXN" Total="11207.62" TipoDeComprobante="I" MetodoPago="PUE" LugarExpedicion="76148" xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <cfdi:Emisor Rfc="MAAM780716DM6" Nombre="MAURICIO MARTINEZ ALANIS" RegimenFiscal="612" />
+  <cfdi:Receptor Rfc="IES050607RD9" Nombre="INVESTIGACIONES Y ESTUDIOS SUPERIORES DE QUERÉTARO S. C." UsoCFDI="P01" />
+  <cfdi:Conceptos>
+    <cfdi:Concepto ClaveProdServ="86101610" NoIdentificacion="CLASE" Cantidad="11756.25" ClaveUnidad="E48" Unidad="Pieza" Descripcion="HONORARIOS PROFESIONALES POR IMPARTIR LAS MATERIAS DE ESTRUCTURAS DE CONCRETO Y ESTRUCTURAS DE ACERO Y MADERA EN LA ESCUELA DE ARQUITECTURA." ValorUnitario="1" Importe="11756.250000">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="11756.25" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="1881.00" />
+        </cfdi:Traslados>
+        <cfdi:Retenciones>
+          <cfdi:Retencion Base="11756.25" Impuesto="001" TipoFactor="Tasa" TasaOCuota="0.100000" Importe="1175.63" />
+          <cfdi:Retencion Base="11756.25" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.106667" Importe="1254.00" />
+        </cfdi:Retenciones>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+  </cfdi:Conceptos>
+  <cfdi:Impuestos TotalImpuestosRetenidos="2429.63" TotalImpuestosTrasladados="1881.00">
+    <cfdi:Retenciones>
+      <cfdi:Retencion Impuesto="001" Importe="1175.63" />
+      <cfdi:Retencion Impuesto="002" Importe="1254.00" />
+    </cfdi:Retenciones>
+    <cfdi:Traslados>
+      <cfdi:Traslado Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="1881.00" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento>
+    <tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/timbrefiscaldigital/TimbreFiscalDigitalv11.xsd" Version="1.1" UUID="D2AB81D3-B863-4CAD-A62C-28BE72C29593" FechaTimbrado="2018-02-01T14:04:05" RfcProvCertif="MAS0810247C0" SelloCFD="ZYEKRUq/kyL187bH8NvUl4jSvEU7/mVCP1VNSVoRnqmoRXEkxEUyIlEVsPaRdjEcLcRP41ODFV9wzlHzgjCmQfS4DQyEt1NUpr6c1fhmvSUOJbNSiNLqm3b5b0PWvICQ+fgSrBLNk5Isjbq3LuO8H0D1w3u3mWZ44oYJlFtBMu4=" NoCertificadoSAT="00001000000404486074" SelloSAT="lmQgQbgVbQpJdC66IfZn29zimIwjXTuQRhtdCKHcP0rqIsz2Vz0xq59JUNtZNml5NMtoSTXCILfSLz++yJ/w3SNDEDxZ+XhtE3yq5qClJcWeduwJMdU0DIDpOPFSnKnhOOTr8AFdLScLpfox9jR3QK8vUxKjDT/f6VT8BQQU7n8V6mN+qnh9t7ZW44BIEirDXCle3Gfg01SH6kJ4QTHYkB023LqKkItx7p17o7L9yrmhsA11V6TO43PvtfLVR4xOaEOnoTWz0S8VkGbIX51miO+E2uA/D1Dw53s+0nkpTpdYaCpFbRctfoJA93eyestgPf9V+1DHFS/dKd20NbqUtg==" />
+  </cfdi:Complemento>
+</cfdi:Comprobante>

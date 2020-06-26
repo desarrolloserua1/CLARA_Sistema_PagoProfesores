@@ -1,0 +1,29 @@
+<cfdi:Comprobante xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv33.xsd" LugarExpedicion="76246" MetodoPago="PUE" TipoDeComprobante="I" Total="4483.05" Moneda="MXN" Certificado="MIIFCDCCA/CgAwIBAgIUMDAwMDEwMDAwMDAzMDY4NDUwMjYwDQYJKoZIhvcNAQEFBQAwggGKMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMR8wHQYJKoZIhvcNAQkBFhBhY29kc0BzYXQuZ29iLm14MSYwJAYDVQQJDB1Bdi4gSGlkYWxnbyA3NywgQ29sLiBHdWVycmVybzEOMAwGA1UEEQwFMDYzMDAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBEaXN0cml0byBGZWRlcmFsMRQwEgYDVQQHDAtDdWF1aHTDqW1vYzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMTUwMwYJKoZIhvcNAQkCDCZSZXNwb25zYWJsZTogQ2xhdWRpYSBDb3ZhcnJ1YmlhcyBPY2hvYTAeFw0xNTA0MjExNDA4MzlaFw0xOTA0MjExNDA5MTlaMIH8MS4wLAYDVQQDEyVNQVJBVklMTEEgRkxPUkVOQ0lBIFZFTEFaUVVFWiBIT0xHVUlOMS4wLAYDVQQpEyVNQVJBVklMTEEgRkxPUkVOQ0lBIFZFTEFaUVVFWiBIT0xHVUlOMS4wLAYDVQQKEyVNQVJBVklMTEEgRkxPUkVOQ0lBIFZFTEFaUVVFWiBIT0xHVUlOMQswCQYDVQQGEwJNWDEoMCYGCSqGSIb3DQEJARYZbWFyYXZlbGF6cXVlekBob3RtYWlsLmNvbTEWMBQGA1UELRMNVkVITTU1MDIxNDQ0NDEbMBkGA1UEBRMSVkVITTU1MDIxNE1ERkxMUjAxMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDJcm0qssh/h/08tGvRs1d6u8oRBt9jaYoOz+UGT0YF+CR8Rf79eVjPWy1pgxvWysdQhgi5NM9xOJ4mXcb3cLFdeTav1h/BdomzdL09Z+vt9Fv34STHbqPg18UEdQWMW6gO9C6HOG05Ikgo01cVxY4sSfqjMIAKvCgtLW+BHE923wIDAQABo3UwczAMBgNVHRMBAf8EAjAAMAsGA1UdDwQEAwID2DARBglghkgBhvhCAQEEBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwQGCCsGAQUFBwMCMCQGA1UdEQQdMBuBGW1hcmF2ZWxhenF1ZXpAaG90bWFpbC5jb20wDQYJKoZIhvcNAQEFBQADggEBANYPmq98jGGeUImqC8QEbwCdThVuMDtp/n/PA9uGSct7GpbhLYMVqxl4Ia3BvEB1AS4HAnqWqGjjlzY5ZxZiW+Kv9jsPd4zRapNupPI9ZUQKlvzm2tRUcIhMdj4Hb2TZBBf32FcZVFKGDiR6KiU4toylDj5KcmQWeNqRXs6fVZT2Mh+JOM3vmglAnE07dXVEjD2D8b6dbSxAd+QnZgVtpH41sZTnQhLqLE5bUxF4+JS88gLDSsAAI4SgRVh8KZI4ZpeYjvFktFW3U8HshbO0GP1UMQKYR/ByLG49nBUolb7u6oWsUuGNmVwVWvH00uidOYX9fx0frAgRjbYu7JO4c+E=" SubTotal="4702.50" CondicionesDePago="Contado" NoCertificado="00001000000306845026" FormaPago="03" Sello="PDRyMib1AI8tt/tzzgNRbzX5ZmybID3xsFh7DCT3MFR/pMp+aEfFlEEGhJJjM6w5In6DFxZxQrKXpPngO165IjHZXz/pBCBBuyhyjSONv1qco38+7bxPRZNnUkO9BoDIwA6Bqoaq6PTxmBFrIQV2xemGKn795x5oQ6puW6K0yig=" Fecha="2018-02-02T14:47:05" Folio="58" Serie="H" Version="3.3" xmlns:cfdi="http://www.sat.gob.mx/cfd/3">
+  <cfdi:Emisor Rfc="VEHM550214444" Nombre="MARAVILLA FLORENCIA VELAZQUEZ HOLGUIN" RegimenFiscal="612"></cfdi:Emisor>
+  <cfdi:Receptor Rfc="IES050607RD9" Nombre="Investigaciones y Estudios Superiores de Querétaro, S.C" UsoCFDI="G03"></cfdi:Receptor>
+  <cfdi:Conceptos>
+    <cfdi:Concepto ClaveProdServ="86121800" Cantidad="1" ClaveUnidad="ACT" Unidad="1" Descripcion="HONORARIOS PROFESIONALES POR IMPARTIR LA MATERIA DE SER UNIVERSITARIO, ESCUELA DE HUMANIDADES Y TALLER YO RESPONDO EN FORMACIÓN INTEGRAL" ValorUnitario="4702.50" Importe="4702.50">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="4702.50" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="752.40"></cfdi:Traslado>
+        </cfdi:Traslados>
+        <cfdi:Retenciones>
+          <cfdi:Retencion Base="4702.50" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.100000" Importe="470.25"></cfdi:Retencion>
+          <cfdi:Retencion Base="4702.50" Impuesto="001" TipoFactor="Tasa" TasaOCuota="0.106666" Importe="501.60"></cfdi:Retencion>
+        </cfdi:Retenciones>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+  </cfdi:Conceptos>
+  <cfdi:Impuestos TotalImpuestosRetenidos="971.85" TotalImpuestosTrasladados="752.40">
+    <cfdi:Retenciones>
+      <cfdi:Retencion Impuesto="002" Importe="470.25"></cfdi:Retencion>
+      <cfdi:Retencion Impuesto="001" Importe="501.60"></cfdi:Retencion>
+    </cfdi:Retenciones>
+    <cfdi:Traslados>
+      <cfdi:Traslado Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="752.40"></cfdi:Traslado>
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento>
+    <tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd" Version="1.1" UUID="C4BA6479-206B-427C-9F8A-6918A3EC9B2C" FechaTimbrado="2018-02-02T15:15:19" RfcProvCertif="SAT970701NN3" SelloCFD="PDRyMib1AI8tt/tzzgNRbzX5ZmybID3xsFh7DCT3MFR/pMp+aEfFlEEGhJJjM6w5In6DFxZxQrKXpPngO165IjHZXz/pBCBBuyhyjSONv1qco38+7bxPRZNnUkO9BoDIwA6Bqoaq6PTxmBFrIQV2xemGKn795x5oQ6puW6K0yig=" NoCertificadoSAT="00001000000403258748" SelloSAT="L6WokWldNfMip97KzDcJi0yIqgkBC2PoXI4siC7nauM6Qlw+W/QcfRLu+1IEvJgpcA2ZPo9g6I2fC1GPUUxRcAoKcx7U2ufFs2zHLfds3nma7nnf2CCk4804BAzZ7D9DXHPS3jcau1O9zGqCnPQjKsWBHAsUST7xK69v0wm0YRnE8vE/hL3WmsMymkaslfG01Ix9nX9g8/26gvjxHDt4YdAAtO0YpVRSVbO2bTSFZzY/fpDkWQlDhvduy3MVt8LeMjWAp9PxnDz9xsaeDFj456sbHBgRt9I2c9g7nl3+hW4FSgEIq3LzelAGPHFEsGnWx9S3S2Jko9GPJinFMEsI0A==" />
+  </cfdi:Complemento>
+</cfdi:Comprobante>

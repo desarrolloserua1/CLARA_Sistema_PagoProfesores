@@ -1,0 +1,29 @@
+<cfdi:Comprobante xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv33.xsd" LugarExpedicion="72589" MetodoPago="PUE" TipoDeComprobante="I" Total="6381.37" Moneda="MXN" Certificado="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" SubTotal="6693.75" NoCertificado="00001000000404881431" FormaPago="99" Sello="aftRecY/Vmc2fBLpKUAmWrHUBQacA5/zVsmJnnlPOpFTybE1AgnB6My+s6RpTAZA7NZgpacnWAMvmBm2cRRbK2xXYvGEsyPxBx+DnCCZOAmag8/w3vXwIR4sor88hVsCtV+kBCOBcSy6vC7J2caOQhUHi8oqrwz6BGcNqzeaA2Kwsy71UcTz1RsSWtdrmk440Kj7jFoLAZ4CbJeJ/FKk1vLGzczscCK+E95sOvxWpIF8k5yCpAVZxduOLo08P7zjPNO4SspjJZVRojNnRNu0OkHjX7zcojQtaBOKqlfaBkE31oo+7X4c6Es3zfZuGN4XkLHMMPIeqsjEJTf3W31APg==" Fecha="2018-01-29T22:52:24" Version="3.3" xmlns:cfdi="http://www.sat.gob.mx/cfd/3">
+  <cfdi:Emisor Rfc="VAPM880918AL1" Nombre="MACARIO VASQUEZ PEÑA" RegimenFiscal="612"></cfdi:Emisor>
+  <cfdi:Receptor Rfc="UAP020906CE5" Nombre="Universidad Anáhuac de Puebla, SC." UsoCFDI="P01"></cfdi:Receptor>
+  <cfdi:Conceptos>
+    <cfdi:Concepto ClaveProdServ="86121700" Cantidad="1" ClaveUnidad="E48" Descripcion="Impartición de clases en la Escuela de Turismo en el periodo primavera 2018" ValorUnitario="6693.75" Importe="6693.75">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="6693.75" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="1071.00"></cfdi:Traslado>
+        </cfdi:Traslados>
+        <cfdi:Retenciones>
+          <cfdi:Retencion Base="6693.75" Impuesto="001" TipoFactor="Tasa" TasaOCuota="0.100000" Importe="669.38"></cfdi:Retencion>
+          <cfdi:Retencion Base="6693.75" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.106667" Importe="714.00"></cfdi:Retencion>
+        </cfdi:Retenciones>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+  </cfdi:Conceptos>
+  <cfdi:Impuestos TotalImpuestosRetenidos="1383.38" TotalImpuestosTrasladados="1071.00">
+    <cfdi:Retenciones>
+      <cfdi:Retencion Impuesto="001" Importe="669.38"></cfdi:Retencion>
+      <cfdi:Retencion Impuesto="002" Importe="714.00"></cfdi:Retencion>
+    </cfdi:Retenciones>
+    <cfdi:Traslados>
+      <cfdi:Traslado Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="1071.00"></cfdi:Traslado>
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento>
+    <tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd" Version="1.1" UUID="D607D3F9-0B32-4E4A-864F-24D3524A72EA" FechaTimbrado="2018-01-29T22:56:08" RfcProvCertif="SAT970701NN3" SelloCFD="aftRecY/Vmc2fBLpKUAmWrHUBQacA5/zVsmJnnlPOpFTybE1AgnB6My+s6RpTAZA7NZgpacnWAMvmBm2cRRbK2xXYvGEsyPxBx+DnCCZOAmag8/w3vXwIR4sor88hVsCtV+kBCOBcSy6vC7J2caOQhUHi8oqrwz6BGcNqzeaA2Kwsy71UcTz1RsSWtdrmk440Kj7jFoLAZ4CbJeJ/FKk1vLGzczscCK+E95sOvxWpIF8k5yCpAVZxduOLo08P7zjPNO4SspjJZVRojNnRNu0OkHjX7zcojQtaBOKqlfaBkE31oo+7X4c6Es3zfZuGN4XkLHMMPIeqsjEJTf3W31APg==" NoCertificadoSAT="00001000000403258748" SelloSAT="amb9kQYGgdUMOB5k+HRFtGgY+CNOq0EiAfIQyKAnEUjw0MdRE7DJScGZcR3sYXCfZv5kwp7AutUD5nFs5EY/Bg7k2fS1G18rcyF9xkuSd805qFW8FbCfTeh1LCAZ7jfBAGYMMUMxkUPOH/2JCnG+z3wTRydAe1uAKxabx/g4HK20gSsh6GkfD+HJNzkfYqTsmPpD6sj9+xSGo1eNrOlEWv9EnqVhtPtZQl9G+oD6uJTyejYUvjVRr85I3/ZFxqbkVhIkMwAE5bT6G7kUQ1sbkn/bfhvf8WiIQ9pY/qoaZGm0zjoncCR23cP6tRbsrBMwjlkdJCNSoj87iVQT0W4bFA==" />
+  </cfdi:Complemento>
+</cfdi:Comprobante>

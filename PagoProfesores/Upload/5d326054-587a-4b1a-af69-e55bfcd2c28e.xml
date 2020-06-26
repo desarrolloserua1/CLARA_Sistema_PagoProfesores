@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd" version="3.2" fecha="2017-10-03T18:38:25" folio="56" serie="A" subTotal="3840.00" descuento="0.00" total="3660.80" Moneda="MXN" condicionesDePago="CONTADO" NumCtaPago="1834" tipoDeComprobante="ingreso" noCertificado="00001000000301576795" certificado="MIIEXjCCA0agAwIBAgIUMDAwMDEwMDAwMDAzMDE1NzY3OTUwDQYJKoZIhvcNAQEFBQAwggGKMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMR8wHQYJKoZIhvcNAQkBFhBhY29kc0BzYXQuZ29iLm14MSYwJAYDVQQJDB1Bdi4gSGlkYWxnbyA3NywgQ29sLiBHdWVycmVybzEOMAwGA1UEEQwFMDYzMDAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBEaXN0cml0byBGZWRlcmFsMRQwEgYDVQQHDAtDdWF1aHTDqW1vYzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMTUwMwYJKoZIhvcNAQkCDCZSZXNwb25zYWJsZTogQ2xhdWRpYSBDb3ZhcnJ1YmlhcyBPY2hvYTAeFw0xMzEyMDYxMzM1MDdaFw0xNzEyMDYxMzM1MDdaMIGqMSEwHwYDVQQDExhGT1JUSU5PIE1BUlRJTkVaIFZBWlFVRVoxITAfBgNVBCkTGEZPUlRJTk8gTUFSVElORVogVkFaUVVFWjEhMB8GA1UEChMYRk9SVElOTyBNQVJUSU5FWiBWQVpRVUVaMRYwFAYDVQQtEw1NQVZGODEwODEzVEIxMRswGQYDVQQFExJNQVZGODEwODEzSE9DUlpSMDYxCjAIBgNVBAsTAWEwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAJtjs8tsyslZsnOvmYvjgP2+nTpony0uc+yd0aEd5trgowWa/6tdWgXnDJE420gjgUoO2mJOczyqVcLfApk5vVwiMIRqDuQT2tEu5gYRNDm7EQShNMr1wKjQ+S93kP5RsPfa9bwg6AtrWwocNPHVL2x95zTxMpyM91y6rUzb8UkdAgMBAAGjHTAbMAwGA1UdEwEB/wQCMAAwCwYDVR0PBAQDAgbAMA0GCSqGSIb3DQEBBQUAA4IBAQDT+8XkGQmknA+VJXh6/+PAHkbTYuPV1rNjNyIS8oruoJoDhMt7KlrLhiKtBWgVzfYKYC7M9Fcun3hhixR/pEwBic+NCtI/y0mQA90OQnpqTULnqZC83HhFxYn/nRqUTB21GPdEEU5f17ZgW5bstqOqeNDILPTIuaSVUQxaBH9yurPY1iH2Cyiz6rf/dYSvqezIaFw7lE5tkr/CZFNDhpn/SR0pIC+iSw55SnA84JJvO9ENIElXMFeLfumB6cwato8CeLAGGXgOty4Eu+WROTvn35boj0hwc9Ak7Y0BUgFpQbL+WxNhIdfTpSc8aFPuRtHOglTDpeUX6t6iiXnociYK" formaDePago="PAGO EN UNA SOLA EXHIBICIÓN" metodoDePago="03" LugarExpedicion="Oaxaca de Juarez, OAXACA, MEXICO" sello="jiI8QrGZQ/kJ8nPcONfZpPaW1p9OxhwKNP6tHkyleOZ8jEUt6EbCaWF0o6qEc+uoUxBaBIxrp1xpMpjQ+OMQEOwdXV75YdEvkGNCONk8iXd5igRqpprGQufPULP8HMq2kMZWfvt8i0KvXuWHZ4M7UJtAnIvQRoTxuSgf23XxdSU=">
+  <cfdi:Emisor nombre="Fortino Martinez Vazquez" rfc="MAVF810813TB1">
+    <cfdi:DomicilioFiscal calle="3 de Septiembre" noExterior="102" colonia="5 Señores" municipio="Oaxaca de Juarez" estado="OAXACA" pais="MEXICO" codigoPostal="68120"/>
+    <cfdi:RegimenFiscal Regimen="PERSONA FISICA CON ACTIVIDAD EMPRESARIAL Y PROFESIONAL"/>
+  </cfdi:Emisor>
+  <cfdi:Receptor nombre="UNIVERSIDAD ANAHUAC DE OAXACA S. C." rfc="UAO9909036T8">
+    <cfdi:Domicilio calle="BOULEVARD GUADALUPE HINOJOSA DE MURAT" noExterior="1100" colonia="SAN RAYMUNDO JALPAN" municipio="SAN RAYMUNDO JALPAN" estado="OAXACA" pais="MEXICO" codigoPostal="71240"/>
+  </cfdi:Receptor>
+  <cfdi:Conceptos>
+    <cfdi:Concepto cantidad="1" unidad="1" noIdentificacion="277" descripcion="HONORARIOS PROFESIONALES" valorUnitario="3840" importe="3840.00"/>
+  </cfdi:Conceptos>
+  <cfdi:Impuestos totalImpuestosRetenidos="793.60" totalImpuestosTrasladados="614.40">
+    <cfdi:Retenciones>
+      <cfdi:Retencion impuesto="IVA" importe="409.60"/>
+      <cfdi:Retencion impuesto="ISR" importe="384.00"/>
+    </cfdi:Retenciones>
+    <cfdi:Traslados>
+      <cfdi:Traslado impuesto="IVA" tasa="16.00" importe="614.40"/>
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento>
+    <tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/TimbreFiscalDigital/TimbreFiscalDigital.xsd" version="1.0" UUID="F38C8D86-A893-11E7-8C30-15DA0FED0DD4" FechaTimbrado="2017-10-03T18:38:25" selloCFD="jiI8QrGZQ/kJ8nPcONfZpPaW1p9OxhwKNP6tHkyleOZ8jEUt6EbCaWF0o6qEc+uoUxBaBIxrp1xpMpjQ+OMQEOwdXV75YdEvkGNCONk8iXd5igRqpprGQufPULP8HMq2kMZWfvt8i0KvXuWHZ4M7UJtAnIvQRoTxuSgf23XxdSU=" noCertificadoSAT="00001000000403126814" selloSAT="eEUb/AvyyY4mWqh3y0Iir+I3cbb2Oos2CB8wY0T/KYhIHhsYfC4mUdPygBSpHLIp5BIZZg4o1SIFW8bQxDDVVfwAZ8VIxdf6F2y5n91SO28zwWo7r9h9aEohsd5mu0AkxjeHukeLy9/JDV0i0CedmL7b2WdvCi3ipoF0YjebKukSaZh1tLDRpT+nxdhWlqHEqB1RQN/jlOSl0zA7B5oZ6RfFxg4DgCLzAA55KhvxvK8ojZ+5WvVfYj/yGW4t9DwwagTKs2500VulqRJ5dMTNllq/loUq4rIParsWitgbudGFA9lxWfN4paaVEZCFDa3+gB+t/N5CQ3IDVA+j9VxMzg=="/>
+  </cfdi:Complemento>
+</cfdi:Comprobante>
