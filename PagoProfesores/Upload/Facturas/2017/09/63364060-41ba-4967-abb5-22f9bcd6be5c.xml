@@ -1,0 +1,27 @@
+<cfdi:Comprobante xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv33.xsd" LugarExpedicion="68120" MetodoPago="PUE" TipoDeComprobante="I" Total="1706.40" Moneda="MXN" Certificado="MIIE1TCCA72gAwIBAgIUMDAwMDEwMDAwMDAzMDEwMDQyNDQwDQYJKoZIhvcNAQEFBQAwggGKMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMR8wHQYJKoZIhvcNAQkBFhBhY29kc0BzYXQuZ29iLm14MSYwJAYDVQQJDB1Bdi4gSGlkYWxnbyA3NywgQ29sLiBHdWVycmVybzEOMAwGA1UEEQwFMDYzMDAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBEaXN0cml0byBGZWRlcmFsMRQwEgYDVQQHDAtDdWF1aHTDqW1vYzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMTUwMwYJKoZIhvcNAQkCDCZSZXNwb25zYWJsZTogQ2xhdWRpYSBDb3ZhcnJ1YmlhcyBPY2hvYTAeFw0xMzEwMDgxNjExNTNaFw0xNzEwMDgxNjEyMzNaMIHPMSEwHwYDVQQDExhFUklDSyBSQVVMIEFWSUxBIEFHVUlMQVIxITAfBgNVBCkTGEVSSUNLIFJBVUwgQVZJTEEgQUdVSUxBUjEhMB8GA1UEChMYRVJJQ0sgUkFVTCBBVklMQSBBR1VJTEFSMQswCQYDVQQGEwJNWDEiMCAGCSqGSIb3DQEJARYTY3JvbW9fekBob3RtYWlsLmNvbTEWMBQGA1UELRMNQUlBRTg5MDQwNUtOMTEbMBkGA1UEBRMSQUlBRTg5MDQwNUhPQ1ZHUjA1MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCxZCvnszBzKxU9qOxZIh4D1Ddrs36dIZjFpdOgpc0BfORNGKL94PEYWMSxx3xTj04q9UJ7ejUQx/awZv1aE7r/diGwQNMQGXHbuB3mHgPL31sehGdrMn0ZImseWQ7YN/HPsdxuOmHdn7kA2vTaK5lq4fRxIVkL7ZVPwF69pAQSuwIDAQABo28wbTAMBgNVHRMBAf8EAjAAMAsGA1UdDwQEAwID2DARBglghkgBhvhCAQEEBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwQGCCsGAQUFBwMCMB4GA1UdEQQXMBWBE2Nyb21vX3pAaG90bWFpbC5jb20wDQYJKoZIhvcNAQEFBQADggEBACLdL7TdlZlq9eQy/MHf2ZzP77Mjp3qZGCYbkpkLFRsd+9nZy7IIikXFHYvYr2eC2Py0bgWWA/7eEJUGaDiji2ZWiU9ebFzUDZsXjLQPuEltumoCHBZQrGILTKc+mcdYNB//C2dRqcJY51Qxqh/WqB/3GOPe+IU4oHMMIPqxomneaC9PF+RRhPlUKwB/5BADAPAKYebUBEUpWa3XI2WlBYDrP7XAjaNdAFou6ERwETZR8l06CsfxR/RQ3WbAntXVFf1nQrKFHLXTu1mg4PDDKkWTE+PtDTgi9Q5hNuF4BaWX6coNDrDz5Gtuvj9hIx+qWFislMn1n7jmGM/R4Wlbxmo=" SubTotal="1620.00" NoCertificado="00001000000301004244" FormaPago="03" Sello="hseN+hPkmAaSAMLNXd7eYOSOSRMCRRSkwtmC6hyOIYErEvVTgyFcSc1tkuZQBJnT4ohtO++DrrRKq4J8JeTyqkHVAnBmSx71uOxpcRSUYTRB9vFqqftZAUjnHexkxOoXeWlh6q7IxQQL8w0zce8XXZsElStXFeWq7nBXfAuxneQ=" Fecha="2017-09-30T12:52:14" Folio="18" Version="3.3" xmlns:cfdi="http://www.sat.gob.mx/cfd/3">
+  <cfdi:Emisor Rfc="AIAE890405KN1" Nombre="ERICK RAUL AVILA AGUILAR" RegimenFiscal="612" />
+  <cfdi:Receptor Rfc="UAO9909036T8" Nombre="UNIVERSIDAD ANAHUAC DE OAXACA S.C." UsoCFDI="P01" />
+  <cfdi:Conceptos>
+    <cfdi:Concepto ClaveProdServ="91101504" Cantidad="1" ClaveUnidad="WM" Descripcion="SERVICIOS PROFESIONALES" ValorUnitario="1620.00" Importe="1620.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="1620.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="259.20" />
+        </cfdi:Traslados>
+        <cfdi:Retenciones>
+          <cfdi:Retencion Base="1620.00" Impuesto="001" TipoFactor="Tasa" TasaOCuota="0.106667" Importe="172.80" />
+        </cfdi:Retenciones>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+  </cfdi:Conceptos>
+  <cfdi:Impuestos TotalImpuestosRetenidos="172.80" TotalImpuestosTrasladados="259.20">
+    <cfdi:Retenciones>
+      <cfdi:Retencion Impuesto="001" Importe="172.80" />
+    </cfdi:Retenciones>
+    <cfdi:Traslados>
+      <cfdi:Traslado Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="259.20" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento>
+    <tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd" Version="1.1" UUID="AECE0ABE-0172-4FA2-B9EF-775CE26A491C" FechaTimbrado="2017-09-30T12:58:32" RfcProvCertif="SAT970701NN3" SelloCFD="hseN+hPkmAaSAMLNXd7eYOSOSRMCRRSkwtmC6hyOIYErEvVTgyFcSc1tkuZQBJnT4ohtO++DrrRKq4J8JeTyqkHVAnBmSx71uOxpcRSUYTRB9vFqqftZAUjnHexkxOoXeWlh6q7IxQQL8w0zce8XXZsElStXFeWq7nBXfAuxneQ=" NoCertificadoSAT="00001000000403258748" SelloSAT="GMbCLjtahbJcGdMzUqdyFj/hJbO2SqRUP6BDpvTTfqg3e8WHE2+/HiwFSRVe0d5fZ2gyVdGodCVIV1Icr6N69QzC6r+Bi6AvHoGKgNWQA3oGtA0lzQyhbs0tYxRBj14KNur0syV3+FLHIn9T8kKxyPxRd+CECsGk82z7nn/M1+/MW3HmDz6BdpeAHl7XAjpe/tZzDiIr7AOfcGY/ZMddJ5tHeuWArnfjJamYU+N6ReVlY56RDxhJCqFicMVqerXYc8u/91d9NVuqJo5LPzGhhIg+hhZYwjrFsSY7sXqZytUTDrxkdbLk64c2FjTtY90DgYpsXDl+D/z4G65MgmHEpA==" />
+  </cfdi:Complemento>
+</cfdi:Comprobante>

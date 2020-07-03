@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd" Moneda="MXN" metodoDePago="03" LugarExpedicion="Oaxaca" version="3.2" NumCtaPago="1834" fecha="2017-09-05T17:55:47" sello="A7akujCqTTU/Ni7kMY4y76Bp6LOza1sh4DS2WAWS3t3Ar6ysnrUDzTAzWOB6wYYCHzS5E59IzxMtczfZ7gBswPnWKk6gXEB1NEpY5o4EKm8ZhBDeOaQVHgGJlFJEpWyYGplm9t9M7BfvSi5qcEDuuQZfbzm8VTqYivNxgwBjOGE=" formaDePago="Pago en una sola exhibición" tipoDeComprobante="ingreso" noCertificado="00001000000301744429" certificado="MIIEezCCA2OgAwIBAgIUMDAwMDEwMDAwMDAzMDE3NDQ0MjkwDQYJKoZIhvcNAQEFBQAwggGKMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMR8wHQYJKoZIhvcNAQkBFhBhY29kc0BzYXQuZ29iLm14MSYwJAYDVQQJDB1Bdi4gSGlkYWxnbyA3NywgQ29sLiBHdWVycmVybzEOMAwGA1UEEQwFMDYzMDAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBEaXN0cml0byBGZWRlcmFsMRQwEgYDVQQHDAtDdWF1aHTDqW1vYzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMTUwMwYJKoZIhvcNAQkCDCZSZXNwb25zYWJsZTogQ2xhdWRpYSBDb3ZhcnJ1YmlhcyBPY2hvYTAeFw0xMzEyMTIyMjIxNDdaFw0xNzEyMTIyMjIxNDdaMIHHMSkwJwYDVQQDEyBBU1VOQ0lPTiBWSUNUT1JJQSBBUkFHT04gT0xJVkVSQTEpMCcGA1UEKRMgQVNVTkNJT04gVklDVE9SSUEgQVJBR09OIE9MSVZFUkExKTAnBgNVBAoTIEFTVU5DSU9OIFZJQ1RPUklBIEFSQUdPTiBPTElWRVJBMRYwFAYDVQQtEw1BQU9BNzUwODE1UENBMRswGQYDVQQFExJBQU9BNzUwODE1TU9DUkxTMDAxDzANBgNVBAsTBk9heGFjYTCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAoSKKGd2SJ9mAhp5nlraOgP3JEsOH6QCeIx/fC8/FVeFNmiwEYpWk6U00LOEW3pmusThcePVxzUTLtY65ilTyiBOoDOmAvf0790idW1u4NxxNUzn7KT45Ajr41coR/3ppaDXg+ZUEmJNHCNTJIHXIyWmIvKiBUKnqIlEvHrUaqF0CAwEAAaMdMBswDAYDVR0TAQH/BAIwADALBgNVHQ8EBAMCBsAwDQYJKoZIhvcNAQEFBQADggEBAGU7NXGx+jC4iI1WzTZol2/pKt+uleUMN/l50t/LtCQWMeXIRWixm4PCmP4Lzcj7tpBtH5uhLYUw0eg6PKlUb0JVNFK7vgUll2tYT7m23aaya5hq8l97WQK8a1feNhp6UNl4YasQRjYGwEEyZHO3V+JFzzf/Q9Y3MgWgpkGPoxRpvjeHfRG+fNY2QqWX+XW8dgX6KSw8lyfcTUmzDfQ0gQorUs9jX4ayTWdReXDsY8YogIHZeliVsjLusnbsbw3Mb4nuhgFyFfC2F1SaGpUB0WD4gNqNgm8fSJEhiHnC4f8xE/5W/JcRarU8dxlldZYEllqj05codjCt/DdFXPol/pQ=" condicionesDePago="Contado" subTotal="4080.000000" total="3889.598640" serie="A" folio="217">
+	<cfdi:Emisor rfc="AAOA750815PCA" nombre="ASUNCION VICTORIA ARAGON OLIVERA">
+		<cfdi:DomicilioFiscal calle="Refugio" noExterior="219" noInterior="2" colonia="Jalatlaco" localidad="OAXACA" municipio="OAXACA" estado="Oaxaca" pais="MEXICO" codigoPostal="68080" />
+		<cfdi:RegimenFiscal Regimen="Régimen de las Personas Físicas con Actividades Empresariales y Profesionales"/>
+	</cfdi:Emisor>
+	<cfdi:Receptor rfc="UAO9909036T8" nombre="UNIVERSIDAD ANAHUAC DE OAXACA S.C.">
+		<cfdi:Domicilio calle="BLVD. GUADALUPE HINOJOSA DE MURAT" noExterior="1100" referencia="UNIVERSIDAD ANAHUAC" localidad="OAXACA" municipio="SAN RAYMUNDO JALPAN" estado="Oaxaca" pais="MEXICO" codigoPostal="71248" />
+	</cfdi:Receptor>
+	<cfdi:Conceptos>
+		<cfdi:Concepto cantidad="1.000000" unidad="N/A" descripcion="HONORARIOS PROFESIONALES POR SERVICIOS ACADEMICOS" valorUnitario="4080.000000" importe="4080.000000">
+		</cfdi:Concepto>
+	</cfdi:Conceptos>
+	<cfdi:Impuestos totalImpuestosRetenidos="843.201360" totalImpuestosTrasladados="652.800000">
+		<cfdi:Retenciones>
+			<cfdi:Retencion impuesto="ISR" importe="408.000000" />
+			<cfdi:Retencion impuesto="IVA" importe="435.201360" />
+		</cfdi:Retenciones>
+		<cfdi:Traslados>
+			<cfdi:Traslado impuesto="IVA" tasa="16.00" importe="652.800000" />
+		</cfdi:Traslados>
+	</cfdi:Impuestos>
+	<cfdi:Complemento>
+		<tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" FechaTimbrado="2017-09-05T17:55:47" UUID="5B3DCBCD-928D-11E7-9726-00155D014009" noCertificadoSAT="00001000000403557578" selloSAT="nQQHEbVglwErObt2b9Z+UKxFr+8yfIpPb97YpuU2OoYTVEc2QR6ymFB1yYsluOFHsEteO7FSPbriOHtjfudGo08lrN28XxB/cCkZv8YbyGqXn+vPrTYFARwub6BLoilgpKkvcRBJfatMV3ivDnyFe2ki0nEQ3F53+fJndrkzsuTTZG3gVPu/rN2QmCsKkLzWlZo5UHjTR+ruO5aKJt7owhfswhPvLSA4jrCf9X9PwtGqxNSDfKy/2sJTxYPwk2n3x5eLXuRgaA25gMca1AeWD1Qn/6uuFL+HCDAzKT2rzQCQETmrs54pPZP/RH4+fWG3/XPgGTBxS9BQB8H09yje8w==" selloCFD="A7akujCqTTU/Ni7kMY4y76Bp6LOza1sh4DS2WAWS3t3Ar6ysnrUDzTAzWOB6wYYCHzS5E59IzxMtczfZ7gBswPnWKk6gXEB1NEpY5o4EKm8ZhBDeOaQVHgGJlFJEpWyYGplm9t9M7BfvSi5qcEDuuQZfbzm8VTqYivNxgwBjOGE=" version="1.0" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/TimbreFiscalDigital/TimbreFiscalDigital.xsd"/>
+	</cfdi:Complemento>
+</cfdi:Comprobante>

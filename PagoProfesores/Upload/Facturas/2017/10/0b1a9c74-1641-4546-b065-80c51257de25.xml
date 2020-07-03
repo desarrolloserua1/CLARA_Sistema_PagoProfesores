@@ -1,0 +1,29 @@
+<cfdi:Comprobante xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv33.xsd" LugarExpedicion="72810" MetodoPago="PUE" TipoDeComprobante="I" Total="2552.55" Moneda="MXN" Certificado="MIIE6jCCA9KgAwIBAgIUMDAwMDEwMDAwMDAzMDQ2ODAyMjgwDQYJKoZIhvcNAQEFBQAwggGKMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMR8wHQYJKoZIhvcNAQkBFhBhY29kc0BzYXQuZ29iLm14MSYwJAYDVQQJDB1Bdi4gSGlkYWxnbyA3NywgQ29sLiBHdWVycmVybzEOMAwGA1UEEQwFMDYzMDAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBEaXN0cml0byBGZWRlcmFsMRQwEgYDVQQHDAtDdWF1aHTDqW1vYzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMTUwMwYJKoZIhvcNAQkCDCZSZXNwb25zYWJsZTogQ2xhdWRpYSBDb3ZhcnJ1YmlhcyBPY2hvYTAeFw0xNDA3MTUxOTQ0NTlaFw0xODA3MTUxOTQ1MzlaMIHYMSAwHgYDVQQDExdDQVNBTkRSQSBST0JSRURPIEJSRVRPTjEgMB4GA1UEKRMXQ0FTQU5EUkEgUk9CUkVETyBCUkVUT04xIDAeBgNVBAoTF0NBU0FORFJBIFJPQlJFRE8gQlJFVE9OMQswCQYDVQQGEwJNWDEuMCwGCSqGSIb3DQEJARYfY2FzYW5kcmFyb2JyZWRvYnJldG9uQGdtYWlsLmNvbTEWMBQGA1UELRMNUk9CQzkwMDkwOEs2MDEbMBkGA1UEBRMSUk9CQzkwMDkwOE1QTEJSUzAwMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCEuI7sE+RK+J3eipkYO/KKqiepjftpZxU6M3iA2wGm+/UAYPMbJ15Cah9ecXR6uoBc9ydI4PFEN/AKSz3+BTKZRx4r9+pn5SyfBXIjyCEAIPQGZZWCXbMacDG7384mZzloYee9u3Trol+Nt+lgd05snM3SNHlunn+1vANQ+Hj/IQIDAQABo3sweTAMBgNVHRMBAf8EAjAAMAsGA1UdDwQEAwID2DARBglghkgBhvhCAQEEBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwQGCCsGAQUFBwMCMCoGA1UdEQQjMCGBH2Nhc2FuZHJhcm9icmVkb2JyZXRvbkBnbWFpbC5jb20wDQYJKoZIhvcNAQEFBQADggEBAN+vmYAP5JTCGQMB+E0h61WROrKFb16HWnF6oEK31Bpgi+Df6BFpGSH0UKStZfQU0wt/8Gs4ClLlE2iwKA5OofcM2fKdi+fMY7GTSV8zMCn+FXWXXGjLua5pgtq8Ac6i5d/6kiMRHf8cXLKymLoCi9q7z1F9eareKIKc7vZgcsLmyFtDHEC2emkStSY+ciOD77WNPhvS0Z1dPzHtqcT0yHlit2ejUb7hJRSK9am0YFOQTP5h+a3ipMQei+Xl8cwfnMvpopSgmVbqVybv1sGFKXpA+PXIhcQbqXYhJqfzv6x8tGsCndtzI96imPdFH22vRBdp6jo31dEf57s9r11Jv2s=" SubTotal="2677.50" NoCertificado="00001000000304680228" FormaPago="03" Sello="OzbG/V2qboQl6QqtecKsMxcNK1ngnqaJUGv8b5+7Vw8rEdo+Au4gRyfnuh41qCJVX0G1mpszyeLn3/gTIhg6wcYhgz9okxKyhb+LwHrt5lnpg6VTI6rGJSWgIL1m07/V5TKUHcu2tzzAkctNMoO93fpsadcvNU4WDWXiXVmdKqE=" Fecha="2017-10-02T10:22:15" Version="3.3" xmlns:cfdi="http://www.sat.gob.mx/cfd/3">
+  <cfdi:Emisor Rfc="ROBC900908K60" Nombre="CASANDRA ROBREDO BRETON" RegimenFiscal="612" />
+  <cfdi:Receptor Rfc="UAP020906CE5" Nombre=" UNIVERSIDAD ANÁHUAC DE PUEBLA, S.C." UsoCFDI="P01" />
+  <cfdi:Conceptos>
+    <cfdi:Concepto ClaveProdServ="86121700" Cantidad="1" ClaveUnidad="E48" Descripcion="Impartición de clases en la licenciatura de Diseño Industrial en el periodo Otoño 2017." ValorUnitario="2677.50" Importe="2677.50">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="2677.50" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="428.40" />
+        </cfdi:Traslados>
+        <cfdi:Retenciones>
+          <cfdi:Retencion Base="2677.50" Impuesto="001" TipoFactor="Tasa" TasaOCuota="0.100000" Importe="267.75" />
+          <cfdi:Retencion Base="2677.50" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.106666" Importe="285.60" />
+        </cfdi:Retenciones>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+  </cfdi:Conceptos>
+  <cfdi:Impuestos TotalImpuestosRetenidos="553.35" TotalImpuestosTrasladados="428.40">
+    <cfdi:Retenciones>
+      <cfdi:Retencion Impuesto="001" Importe="267.75" />
+      <cfdi:Retencion Impuesto="002" Importe="285.60" />
+    </cfdi:Retenciones>
+    <cfdi:Traslados>
+      <cfdi:Traslado Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="428.40" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento>
+    <tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd" Version="1.1" UUID="8A429222-63C0-4D44-927F-8A45573912DF" FechaTimbrado="2017-10-02T13:43:58" RfcProvCertif="SAT970701NN3" SelloCFD="OzbG/V2qboQl6QqtecKsMxcNK1ngnqaJUGv8b5+7Vw8rEdo+Au4gRyfnuh41qCJVX0G1mpszyeLn3/gTIhg6wcYhgz9okxKyhb+LwHrt5lnpg6VTI6rGJSWgIL1m07/V5TKUHcu2tzzAkctNMoO93fpsadcvNU4WDWXiXVmdKqE=" NoCertificadoSAT="00001000000403258748" SelloSAT="YlYAjjhB5KfS77CA0dSvElP1qaYBxVYDzlw+9UpwIZfveR2Ll2WgWf8MKalGgVffbaENehiDohnsYCumHQGDhZ5noqYstzAPrf7rboYpK7hMCL7srwqcOzkv13Boy64xcfTs0l1OikRv2HuGFaOh1cuj/vftCv8pDwsiEvyAyykRYOLK698OS1dQ8ljAwQZvGH3MctA2T9fHHVY4K62XZIQ52bLmW7Rb7i8bxIctfX0aOt8MclbVjqBgZhf5mS/kztVdi00n3gOm7kv4bBsKmuHedjLoC448BWc2E7WYOf2160HRAibF/Mm0zMJRsyXSVCBq7PzsmIvbydllDt+xig==" />
+  </cfdi:Complemento>
+</cfdi:Comprobante>
